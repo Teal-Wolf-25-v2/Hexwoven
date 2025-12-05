@@ -48,7 +48,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Export Modpack
-        run: packwiz modrinth export
+        run: packwiz modrinth export --pack-file $GITHUB_WORKSPACE/pack.toml
 
       - name: Modrinth Releaser
         # You may pin to the exact commit or the version.
