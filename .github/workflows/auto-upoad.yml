@@ -69,8 +69,7 @@ jobs:
           # The game versions this mod is compatible with
           game_versions: ${{ steps.pack_mc.outputs.value }}
           # The files to upload
-          files: |
-            ${{ steps.grab_repo.outputs.repo_path }}/${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}.mrpack
+          files: "${{ steps.grab_repo.outputs.repo_path }}/${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}.mrpack"
           # The name of this version. Defaults to version number.
           name: ${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}
           # The loaders this version is compatible with.
