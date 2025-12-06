@@ -1,13 +1,13 @@
 name = "Hexic"
-filename = "hexic-1.4.7-pre.1.jar"
+filename = "hexic-1.4.7-pre.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/dvft5nLr/hexic-1.4.7-pre.1.jar"
+url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/B0DL1Yf9/hexic-1.4.7-pre.2.jar"
 hash-format = "sha512"
-hash = "2d2031ff3b60f32c4b64d9c064fe93c26e08fda8242687d30cedfbb1aa36c18301f3fb78dbd2b7cdd0b7b963047f783eee8d3b08907d04a95dfe4d4409ee966c"
+hash = "4fe2d99b743d961984db05cc3d1f167db63ecae77b1774bd8ba66276556b058f5735d64d00c086b98bd804f2dbffb4ca6471a807fddc3154ecf915000b9d3cf2"
 
 [update]
 [update.modrinth]
 mod-id = "2wn8r7k5"
-version = "dvft5nLr"
+version = "B0DL1Yf9"

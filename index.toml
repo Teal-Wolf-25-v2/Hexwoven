@@ -31,6 +31,11 @@ hash = "3d35d0d10e4c486cfec61cb6fade31999ae592ceb51b1d3830681794b92e67fd"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
@@ -353,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "0cf703e334f31dec57224cbfb04af9da32520e5b4bdb8164e1365bf6b4ded03c"
+hash = "815d6ef63bb6a661195143b732451854a9b03e403b8b75cb2b3c33c16b11b021"
 metafile = true
 
 [[files]]
@@ -769,6 +774,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
