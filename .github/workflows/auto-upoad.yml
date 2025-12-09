@@ -76,4 +76,4 @@ jobs:
           loaders: fabric
 
       - name: Delete Modpack
-        run: rm "$GITHUB_WORKSPACE/${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}.mrpack"
+        run: rm "$GITHUB_WORKSPACE/pack.mrpack"
