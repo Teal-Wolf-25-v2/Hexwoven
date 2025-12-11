@@ -272,6 +272,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
+metafile = true
+
+[[files]]
 file = "mods/fakerlib.pw.toml"
 hash = "650af6cf72d6fc89d1bd133106fc981cd77a5ea2986a32105bd400f8a160be7e"
 metafile = true
