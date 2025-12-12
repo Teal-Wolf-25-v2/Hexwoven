@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/odyssey-allies.pw.toml"
-hash = "80f6a2c2cd22db388c332cbdb03865ef9571ba3ad1390044ad00e27bd9c985c6"
+hash = "bded7a826b261f0e925468fb6b01419d1d375a675c87c49849e3a84145e11177"
 metafile = true
 
 [[files]]
