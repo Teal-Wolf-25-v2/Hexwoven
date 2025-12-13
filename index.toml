@@ -352,17 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting-media-display.pw.toml"
-hash = "030b99d7974df2b347036039622e8c571e932d7ab94e8d7a2ffc2f872ba2bcb1"
+hash = "0f9e0faa7f7391c498d3546d35e29e86f44ae4d209ec43c545aa5b823469f69d"
 metafile = true
 
 [[files]]
 file = "mods/hexcellular-1.1.0-64d134a.jar"
 hash = "e54f19e2bce24516a5c480f699fc6da910fd6b2d71e425a16636669dfdc517aa"
-
-[[files]]
-file = "mods/hexcellular.pw.toml"
-hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
-metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
@@ -387,11 +382,6 @@ metafile = true
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
 hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
-
-[[files]]
-file = "mods/hexical.pw.toml"
-hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
-metafile = true
 
 [[files]]
 file = "mods/hexparse.pw.toml"

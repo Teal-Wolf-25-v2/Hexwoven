@@ -1,13 +1,8 @@
-name = "Hexcasting Media Display"
-filename = "hexcasting-media-display-1.1.0.jar"
-side = "client"
+name = "hexcasting-media-display"
+filename = "hexcasting-media-display-1.1.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ua22vs0r/versions/b1sWGza3/hexcasting-media-display-1.1.0.jar"
-hash-format = "sha512"
-hash = "5921b62ec86dabe34874f17328ad220f67acb7f23fc2bf2cd4ff0d87231e80d5a309d5a34efd7ee53bf47c6b8f21ebdca99ca26cdb1027417cd30ba216d92fed"
-
-[update]
-[update.modrinth]
-mod-id = "Ua22vs0r"
-version = "b1sWGza3"
+url = "https://git.tw25.net/teal-wolf-25/HexcastingMediaDisplay/releases/download/1.1.1/hexcasting-media-display-1.1.1.jar"
+hash-format = "sha256"
+hash = "90757a945571f1e6b85cd3afa0d5f048ff0d6c4946db0df33664e8092930e520"
