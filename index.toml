@@ -99,6 +99,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "05f80197ca27d4d870aad7e48667412eed187c1478346902c9f0578d51662910"
+metafile = true
+
+[[files]]
 file = "mods/create-cards.pw.toml"
 hash = "44b40c64846c80c73b0073d80e408adbd71d27f314a973a088d42b4784206086"
 metafile = true
@@ -289,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "00f2e8c9f900b119fc5931bce91d7c00845a8e494db8910c3a4e7d69bde2bc75"
 metafile = true
 
 [[files]]
