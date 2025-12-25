@@ -1,6 +1,6 @@
 name = "hexcasting-media-display"
 filename = "hexcasting-media-display-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://git.tw25.net/teal-wolf-25/HexcastingMediaDisplay/releases/download/1.1.1/hexcasting-media-display-1.1.1.jar"
