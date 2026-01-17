@@ -434,11 +434,6 @@ hash = "a12033b30bacf51de49b79599cf4d02591bbdac978f14a6a8b4b245e718f52da"
 metafile = true
 
 [[files]]
-file = "mods/hexxyplanes.pw.toml"
-hash = "21b6f3e5efb8b092cc3243adeb570f0c36bb9d0c11a93507aa903bafa83cd46e"
-metafile = true
-
-[[files]]
 file = "mods/hierophantics.pw.toml"
 hash = "9fbc042f0794b2eba517b8c0b94b6dd6e288688cd1620bf17ce65410fe8398e7"
 metafile = true
