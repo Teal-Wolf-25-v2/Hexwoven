@@ -1,6 +1,6 @@
 name = "Hex Creator"
 author = "Teal Wolf 25"
-version = "4.0.12-test2"
+version = "4.0.12-test3"
 pack-format = "packwiz:1.1.0"
 
 [index]
