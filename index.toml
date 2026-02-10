@@ -356,6 +356,11 @@ hash = "f20f70edd4a3e76e3f1b576bd715f3c8027dd2fa5682707fb9e914a39a7a9f60"
 metafile = true
 
 [[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting-media-display.pw.toml"
 hash = "9699936702c90e0b96c42f501c4480f6a8095dbb7331143ec24d6b19e648174a"
 metafile = true
