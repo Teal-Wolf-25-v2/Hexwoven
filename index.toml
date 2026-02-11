@@ -14,6 +14,21 @@ hash = "e1ad09c708d35fb351924dddb5044c08de0508c20ce5df1800351ae3c3773e5e"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "448122a913a9588559026b8974a9d1cf75996fbf637c716ab2535b8ccf461cb5"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+metafile = true
+
+[[files]]
+file = "mods/accessorify.pw.toml"
+hash = "41fc9132cbeba0d3a14159e2f36be7e2f7037bc04bb121711d89028d06494562"
+metafile = true
+
+[[files]]
 file = "mods/additionalentityattributes.pw.toml"
 hash = "48770bc79702c9bc6476ca99e159fea6f28133e125f7ffcdb4c85e1e24c69631"
 metafile = true
@@ -368,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/hexcassettes-2.0.0-b7d281b.jar"
 hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
-
-[[files]]
-file = "mods/hexcasting-media-display.pw.toml"
-hash = "9699936702c90e0b96c42f501c4480f6a8095dbb7331143ec24d6b19e648174a"
-metafile = true
 
 [[files]]
 file = "mods/hexcellular-1.1.0-64d134a.jar"
@@ -816,11 +826,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
