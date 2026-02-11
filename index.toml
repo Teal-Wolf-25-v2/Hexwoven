@@ -59,6 +59,11 @@ hash = "98046c498f1ce57709116cb996cc55f75dfd3c8868e5b02118229d4642ee2d2c"
 metafile = true
 
 [[files]]
+file = "mods/blaha-replushed.pw.toml"
+hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -356,9 +361,8 @@ hash = "f20f70edd4a3e76e3f1b576bd715f3c8027dd2fa5682707fb9e914a39a7a9f60"
 metafile = true
 
 [[files]]
-file = "mods/hexcassettes.pw.toml"
-hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
-metafile = true
+file = "mods/hexcassettes-2.0.0-b7d281b.jar"
+hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
 file = "mods/hexcasting-media-display.pw.toml"
@@ -673,6 +677,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "803e0a9f2b35d933bc3d583ce4db52dfff9c717b7f89f4462f0437f16b86e6fc"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
