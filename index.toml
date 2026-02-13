@@ -543,9 +543,8 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks.pw.toml"
-hash = "bf7ca47d2dbf5e717e2e31b05cda0e05d0674ddf39d1119c979c3a71b61771ac"
-metafile = true
+file = "mods/lapisworks-1.5.8-early.jar"
+hash = "ab296b8b279b0cc66cd2b761b473d750948b9618162d6229fad2c1d3eadf4a51"
 
 [[files]]
 file = "mods/lithium.pw.toml"
