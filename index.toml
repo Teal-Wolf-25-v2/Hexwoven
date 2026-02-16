@@ -616,6 +616,11 @@ hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
 
 [[files]]
+file = "mods/noconsolespam.pw.toml"
+hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
 metafile = true
