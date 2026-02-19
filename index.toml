@@ -123,6 +123,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
+metafile = true
+
+[[files]]
 file = "mods/create-cards.pw.toml"
 hash = "44b40c64846c80c73b0073d80e408adbd71d27f314a973a088d42b4784206086"
 metafile = true
@@ -203,6 +208,11 @@ hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "1cce22b9d322f625a5bbe720e500afc3270e37d487691313079d3213905ef1cb"
 metafile = true
@@ -268,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9c8b6d8e1a13a4f7edd081c1ab561c51069d6315a67c217a88fafcd1ddfb17a8"
+hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
 metafile = true
 
 [[files]]
@@ -464,12 +474,12 @@ metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "3014dc05ccc620ebb0fd333c0238b58beef03ce25b6bb9eee97c28511e59b5b3"
+hash = "fe8b903b37f162385797a10af49859b2225980c1d8c1d335172bf5d6b44692c4"
 metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "a584d950b83f81cd9b539370533f590b86fef74a13e27c699fe0d072bd030ec4"
+hash = "189d433785d954e85b270c47788e0eedec99dfbcc2d6697c230d6d935fe37494"
 metafile = true
 
 [[files]]
@@ -759,12 +769,12 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-hash = "a3838d2c6e04128854892afa85ba3341a68065e307e6dd2785ade4fd45b4e0bb"
+hash = "4d7f93e2b654281de21f4ccf27071b24b0eabe328d5a3680a6b619c0f91c65a3"
 metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "68057a7117f0403ce970d9f2e478310ec5af6b63e90414dbec5c0d6d7d4776a3"
+hash = "a7d049e908ae3a826176135b6bd753925451fb74fe3fdbd4ec3372ead38ab224"
 metafile = true
 
 [[files]]
