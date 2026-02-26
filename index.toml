@@ -69,13 +69,28 @@ hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
 metafile = true
 
 [[files]]
+file = "mods/caduceus.pw.toml"
+hash = "870c93531e99b2c4e9385d52b02b39fec974a24de0a6e316c18ae68c1b873bbc"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "04917e80342632584604a9020377bc80a8b8bf00449c093356fe9213dfd7f78a"
 metafile = true
 
 [[files]]
@@ -160,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
 metafile = true
 
 [[files]]
@@ -354,6 +374,11 @@ hash = "bd43bc5501742ebff32a83de090b213306febd2bb8f859963156be09c9be3574"
 metafile = true
 
 [[files]]
+file = "mods/hexparty.pw.toml"
+hash = "844ca784671e12f417c475bf17272e629a6c29ed67a05b07c3334179553eb424"
+metafile = true
+
+[[files]]
 file = "mods/hexpigmentplus.pw.toml"
 hash = "6f1ece0609f0bb13793aafafbb0297f7acda122542c3992a131676ca139b4de4"
 metafile = true
@@ -501,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/moves-the-mind.pw.toml"
+hash = "73009ade6fad32d678f08e91853526ca7e73a77874152164dadce86121f8027d"
 metafile = true
 
 [[files]]

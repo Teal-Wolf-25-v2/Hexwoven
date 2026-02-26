@@ -1,0 +1,8 @@
+name = "hexparty"
+filename = "hexparty-fabric-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/c-Caelum/HexParty/releases/download/1.1.2/hexparty-fabric-1.1.2.jar"
+hash-format = "sha256"
+hash = "0d637cba634fe29a2396e5a6d3b9ae7a29dbb105706ead805004adf514c6a4f5"

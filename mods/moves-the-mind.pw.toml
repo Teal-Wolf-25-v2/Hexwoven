@@ -1,0 +1,13 @@
+name = "Moves the Mind"
+filename = "movesthemind-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zKp2hKIx/versions/4jyqi29b/movesthemind-1.1.0.jar"
+hash-format = "sha512"
+hash = "89c67891265cc0b39028c3857903100085f23bef8cd32826961085ad03849e03056b43fe6a7e7d6971aa975105d3f3ef13ef912dae5d78b33969b03bfab02ffb"
+
+[update]
+[update.modrinth]
+mod-id = "zKp2hKIx"
+version = "4jyqi29b"
