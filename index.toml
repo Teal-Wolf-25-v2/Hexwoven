@@ -360,6 +360,11 @@ hash = "5c00a6d637f656ec5386b039db2271b0433f79ef137d2c29cd95279a618b737b"
 metafile = true
 
 [[files]]
+file = "mods/hexic.pw.toml"
+hash = "0e171cc6a5705529e3c8f8d4405f468c12fba42554245dbf7ef0f84d3757892b"
+metafile = true
+
+[[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
 hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
@@ -489,6 +494,11 @@ hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
 metafile = true
 
 [[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
@@ -564,6 +574,10 @@ hash = "e38efc43ea728e50ab27bc8130843d7ba8e3e74dc6e850f9867ecca28ff4f999"
 metafile = true
 
 [[files]]
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
+
+[[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
 hash = "01e98745137398e905e5da6ce53e5dc8140e30480c4f27dc99db7fc991cc7c0a"
 
@@ -580,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+metafile = true
+
+[[files]]
+file = "mods/patternmasters-fix.pw.toml"
+hash = "b9588119c8319558c35082af1eb7b0381d6ee6c3e6d1dbcad42f1f9d2cce10d3"
 metafile = true
 
 [[files]]
@@ -684,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/spasm.pw.toml"
+hash = "d85f532c65f1674ff6f3448a4cb8fd8d0f86b0a6c7446de37793f525e8cdd184"
 metafile = true
 
 [[files]]

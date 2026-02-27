@@ -1,0 +1,14 @@
+name = "Hexic"
+filename = "hexic-1.4.6.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/ad9yYcib/hexic-1.4.6.jar"
+hash-format = "sha512"
+hash = "ffcd5e6a11b0a0650363aa705a426f73533bdc73f05f2bda73e475c7a89110f46c9944f623f942279edf20fea49f0a2882a052c732f8351ca89f4d3b660cfb64"
+
+[update]
+[update.modrinth]
+mod-id = "2wn8r7k5"
+version = "ad9yYcib"
