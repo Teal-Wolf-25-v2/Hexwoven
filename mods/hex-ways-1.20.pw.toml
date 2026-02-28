@@ -1,0 +1,13 @@
+name = "Hex Ways (1.20 fork)"
+filename = "hexways-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QrBdNgv5/versions/Sh8wRYxi/hexways-1.0.1.jar"
+hash-format = "sha512"
+hash = "e9011c4b26c0e5582deb5262e064f2ca94249b01495b0e8b8e274f742980a82a908a995636aba506323f88f44dc582d5e47861ef2d7c715c909c0ed37364ea82"
+
+[update]
+[update.modrinth]
+mod-id = "QrBdNgv5"
+version = "Sh8wRYxi"

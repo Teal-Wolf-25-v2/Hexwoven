@@ -379,6 +379,11 @@ hash = "e7618fe94cbf0b7ea032e45cb448ab8151773ef71adb6dda8becd4d2fcc4dab5"
 metafile = true
 
 [[files]]
+file = "mods/hex-ways-1.20.pw.toml"
+hash = "0c495ac7e119e5c658facd73809af79ab02442c1a87c2a3bcdf8b97ece10f0ef"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
@@ -499,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "71ddcef1fbd1b128a705ce8f9a57e8aeda4421f08c47241484d08bd264cb7c98"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "12815484de2690b06b5d971ac8b12e94e4349966413e7f328518724026e9004c"
 metafile = true
 
 [[files]]
