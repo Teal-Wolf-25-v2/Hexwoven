@@ -10,7 +10,7 @@ hash = "235802d203ceedee82584a58ffd43996a5170d552b3f9e00671323671a39d162"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c5ef12cc4bae460932422cacb1113ab801bb80432f0498401f6ffdab64a7e572"
+hash = "a22705566a5dcdb20e9451ac0daacc6014640a2852b79a86797d53a81a8d7c63"
 
 [[files]]
 file = "config/fabrictailor.json"
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "eef930facc7a1fde096d70b1b4166b99285feaabac10b9d080da44bb98f8f5fd"
+hash = "562dce972fec0be3553bb34b9bfd73a689c8b5a5c72e620251c185ba9b27da6b"
 metafile = true
 
 [[files]]

@@ -2,8 +2,8 @@
   "version": 1,
   "overrides": {
     "iotaworks": {
-      "+depends": {
-        "phlib": "0.1.x"
+      "-depends": {
+        "phlib": "*"
       }
     }
   }
