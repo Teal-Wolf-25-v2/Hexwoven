@@ -536,11 +536,6 @@ hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "82d49e37ee8a4883be87a1cb5d8748f5a6bcfc758f4173b68f78f9e7caf989a7"
-metafile = true
-
-[[files]]
 file = "mods/iotaworks.pw.toml"
 hash = "f47422f7f0abf238809bf04dce391b8a18f2511e7eff3b31f372d5b81610d1aa"
 metafile = true
