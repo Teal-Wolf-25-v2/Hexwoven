@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c5f48712b804f39a35e1cf1be3c6eecdd1e2952c1c0cfab453a140e40fbe74c0"
+hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+hash = "c92c1ff6925ac157ffe7741a7a2f24b1d921a12b7ca4d69aa90db280012e3903"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "07c1abbd79fdc0eeb2e8bce84daaf7ff7297f2b9ec7a44cae6906b0ba8eb93ed"
+hash = "4e047f8fdcb0f5da29472a6b5f0c6040fd8bc19ca8aa14f6a1bd73b51e83a94d"
 metafile = true
 
 [[files]]
@@ -593,7 +593,12 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "d209c68bde582a5b7ec23db1d0febd95eec889410c30a5b84b7d00fd02875a71"
+hash = "58b45db3b154d0b90303ccd18e9123c980ba3fc18c72683ee073e8db40573b91"
+metafile = true
+
+[[files]]
+file = "mods/lib39.pw.toml"
+hash = "44085d416686ea01befa8cd530fe2c9bb3276926bca43144fd290ee1874c805a"
 metafile = true
 
 [[files]]
@@ -690,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "416b46fc5c69d7ca02932d2723c1240e6a6148b1dcca0e8e0be094ab6c156b5d"
+hash = "8e738f6831799941b6e0abf306a3f8274110bc9ffbf2ecaf5b62cd521fe16441"
 metafile = true
 
 [[files]]
@@ -700,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+hash = "b087d57e8f876873a4eaeacdb80166c03e5158fa95cb15ffe6aa9571b76bf9d2"
 metafile = true
 
 [[files]]
@@ -874,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "66c4b20e8ba9916a0e84e05a00d6cb54c6dc2d6fc5cebbf0263a9103d06ae9df"
+hash = "0d608641fb74c095ffebacfe63be50e66b575a8005a9ca04a44cb91ebb862ed0"
 metafile = true
 
 [[files]]
@@ -894,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaha.pw.toml"
-hash = "21a499e88959df2a37848f21612c6cfd525abc8ed47466bd78f9fde98499095c"
+hash = "e24a5fed62f1384ed10c94c86c49be62788c01ae48c3d483a16ed9c0a0be071c"
 metafile = true
 
 [[files]]
