@@ -190,6 +190,11 @@ hash = "b079b010767e7589c98ee4c6281eec59cda6cf2b8ca83c75aaa478af7253b6bf"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "d306e869837927002dcaa18b8b92465b11de8efcd44f531a9cef6f3975b00810"
+metafile = true
+
+[[files]]
 file = "mods/create-cards.pw.toml"
 hash = "44b40c64846c80c73b0073d80e408adbd71d27f314a973a088d42b4784206086"
 metafile = true
@@ -786,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/scryglass-1.0.0-6c096fb.jar"
 hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "ac3aecaa7398c0b9dcb46abdaa1826562ea1494de43c740b6c7a8d5abd139420"
+metafile = true
 
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
