@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "5f92bbc36ffe9e6412ae0d691cf4be37916545e3aaef3ba1cf6adcfae81e2079"
+hash = "58b45db3b154d0b90303ccd18e9123c980ba3fc18c72683ee073e8db40573b91"
 metafile = true
 
 [[files]]
