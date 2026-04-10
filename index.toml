@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "1001909e9b113e2976ae248072709906cca90ac098af00cdd967453d45fba851"
+hash = "2babc2a3eed6143a112c848633d937d48235368f934d06f9a002e943d7c3adde"
 metafile = true
 
 [[files]]
@@ -237,6 +237,11 @@ hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
 metafile = true
 
 [[files]]
+file = "mods/curios-media-holder.pw.toml"
+hash = "c9e3c6cb57edae1732fa7de736c08034bf6fd47d765c12ce31047115e2b21393"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
+metafile = true
+
+[[files]]
+file = "mods/dimension-leak-fix.pw.toml"
+hash = "4d2c5cb8186f638c5f13d6793f0d421e98c853250f1cde8910c66ee87e83ebba"
 metafile = true
 
 [[files]]
@@ -302,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1a672734549cae5b15acbbe57ce38b9f52de712a8d794584fb6132e8180417c4"
+hash = "3286b24acf6f301cb8e1ea1cc6ebc4db8f49629542af39ccc8db3ca812b75576"
 metafile = true
 
 [[files]]
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
+metafile = true
+
+[[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "f3546a49a65357b7de50adae21e9ade4fb0fc66adb519f277f0f4516a4e64b03"
 metafile = true
 
 [[files]]
@@ -402,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/heartxxy.pw.toml"
-hash = "d6c0543c16160c3b82d438e184a794f10416b8db952ac8993105f142840b8efe"
+hash = "363a1ee329e3e2c3be3a1bf38e122b3132d57977b5de9b5b7b22e2390d664c1b"
 metafile = true
 
 [[files]]
@@ -431,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "d62dfc7169dd744c050748104bf0c9e7cc3fb67267f4c12d3c19c2fb48acbac3"
+hash = "b4e5789a8907a29451c22145e1914c7799da2a4736adc7d831b0b2c55c1a4c80"
 metafile = true
 
 [[files]]
@@ -441,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexflow.pw.toml"
-hash = "10213b37c85e0d1d78e18326d65b192b6ee1e297209af4e9f9a1a8d380677e0b"
+hash = "39488e4654026a0d00d4ff3399bc8d1fcc867d527e793e502600cb5e989fe125"
 metafile = true
 
 [[files]]
@@ -451,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "6155ad3e0c9e517062227a86e0f34b0c84d45a026f0a8091a279229d9e2bc2e1"
+hash = "397f7c5f22c9cad26f165bc630f432db2432dd22e8a08757a1eade3824ae0f3a"
 metafile = true
 
 [[files]]
@@ -515,7 +530,12 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "aa2675d0d4b4cbf065bbcd72350907624a7734452b91805468276284422b1e6f"
+hash = "1443f0bc1d45a5b524919c5fd32b2987b70af74a9e4c560b431ee080efc5defc"
+metafile = true
+
+[[files]]
+file = "mods/hexxyplanes.pw.toml"
+hash = "2d015825c9c1b9b8154d0e450f671b38bf89d232d1af588eb693ac6fa93cd879"
 metafile = true
 
 [[files]]
@@ -555,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/iotaworks.pw.toml"
-hash = "f47422f7f0abf238809bf04dce391b8a18f2511e7eff3b31f372d5b81610d1aa"
+hash = "566d04f1d8781e48512960b85e69d359b43342d6d6e5a8dc778a604e47a46142"
 metafile = true
 
 [[files]]
@@ -610,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "58b45db3b154d0b90303ccd18e9123c980ba3fc18c72683ee073e8db40573b91"
+hash = "5f92bbc36ffe9e6412ae0d691cf4be37916545e3aaef3ba1cf6adcfae81e2079"
 metafile = true
 
 [[files]]
@@ -634,6 +654,11 @@ hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
 file = "mods/mod-tools-1.1.5+1.20.1.jar"
 hash = "daf4bdc48ea74803bbf1b50cf41ea22680c1cc6e207b7fcb97510999f17a27e6"
 
@@ -649,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "60dd0c8cd8ee5c017041e5d15106aa1cb96fad82ac6ddd1a297d8d7d4fe4e2dd"
+hash = "ab7e281c89ea3fcfa92131122027e9e1336e999e7415f87c68eb08235b90b722"
 metafile = true
 
 [[files]]
@@ -707,7 +732,7 @@ hash = "01e98745137398e905e5da6ce53e5dc8140e30480c4f27dc99db7fc991cc7c0a"
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
@@ -820,8 +845,13 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3c08e80abd1ec07fcadde5d820fb44ec9ab964fe60385e1ae368b2eadc5d8b86"
+metafile = true
+
+[[files]]
 file = "mods/slate-works.pw.toml"
-hash = "b99a69c08010b5c0f67afc30e7d843ae8016a14f2ec0bb2a0116d4b316a79e56"
+hash = "02a5732d85a12c06d2798cbc71264747b8498d05da17b5d18c53529d1980659e"
 metafile = true
 
 [[files]]
@@ -891,17 +921,22 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "4f46377ebc6650fa48b7f775991f3a1d7302be65f878dc364aa8150f0e1311b9"
+hash = "54a0cb421a8571bb666ab2df2e9fb4cbe143c9b0a87cf0ef113dabd271127191"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "68586ae904f1cb0d0c914f8be6258c4d2a20e6b28cd0a07fc4940adba7dbc22f"
+hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "b03e78f87681ad57e29e27cfb6f791f8d54d91c8df1936efeba71248454467f7"
+hash = "cfe86fb1d99d172034d0381f4ed341f21cd09c2313ff299c03d7af8e014fef7b"
+metafile = true
+
+[[files]]
+file = "mods/weaponsexpanded.pw.toml"
+hash = "b40c5fad3fa0738734cdd0c3310560a23ad32dbe6ac7f2c8d0d3b4682b6664c9"
 metafile = true
 
 [[files]]
@@ -971,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "4fc7f37b65f44ae8ba65a06c9031a9c654c0c1ad993ccbf6f7822d5b7ea98d37"
+hash = "8bb6743ee26d57f8de5bbcb35fa38b9aec60a03113987178f1c128bd9dfcd2ee"
 metafile = true
 
 [[files]]

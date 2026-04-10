@@ -1,13 +1,13 @@
 name = "HexFlow"
-filename = "hexFlow-fabric-1.20.1-0.4.jar"
+filename = "hexFlow-fabric-1.20.1-0.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/hF6iVlLy/hexFlow-fabric-1.20.1-0.4.jar"
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/8FDpRkmZ/hexFlow-fabric-1.20.1-0.5.1.jar"
 hash-format = "sha512"
-hash = "2af0cc5cd1dfb74e9ea33fc0a6efcec664c7ff1a6bdb18b225d2d917816c685c2aaaba63aa29e36564c211d52a5d6b796f998c9cc4a5c3b48b4909f281c8f6f0"
+hash = "c74bef31478f4aa419f8662905013af68aaa95aef73b9f180f22a137bc632fcde1a45f4bee622c9e1ce3901599a0bf01d89364f2f19e97317fdb954d1efc8d7c"
 
 [update]
 [update.modrinth]
 mod-id = "MRC1BQpK"
-version = "hF6iVlLy"
+version = "8FDpRkmZ"

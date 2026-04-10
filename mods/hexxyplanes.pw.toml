@@ -1,0 +1,13 @@
+name = "HexxyPlanes"
+filename = "hexxyplanes-fabric-0.2.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JrxK0WJm/versions/1t76sO3s/hexxyplanes-fabric-0.2.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3311d93f9e72301e69405eeec7102157b56b8ae0bc14ff579bb0dfdb80b19200b9e6831d20c88a4689e82cc3075da7d5017aa634a15be8311aaf6b1c8dd18f83"
+
+[update]
+[update.modrinth]
+mod-id = "JrxK0WJm"
+version = "1t76sO3s"
