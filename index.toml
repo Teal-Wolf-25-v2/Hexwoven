@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "b6c9c9f6a320d94ecde0ef13c02c1f64fa19d7749e9ee3d8c2051461b7f1584f"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "8ea28a48cc3a428d591c756ca9138e4b08ce13db9e33fbbb6bbac13708ba7324"
+
+[[files]]
 file = "config/creeper-healing.toml"
 hash = "235802d203ceedee82584a58ffd43996a5170d552b3f9e00671323671a39d162"
 
@@ -17,6 +21,10 @@ file = "config/fabrictailor.json"
 hash = "5d86b7a8e8dc187300c0a8dd5c40e5d8a64c2a059b7fe419d8eb808a1afa4e16"
 
 [[files]]
+file = "config/hexcassettes.json"
+hash = "50f33323a23f849ae5398a9ec06671ab16d5d52b6ab5ab04aada9cb173e94bb0"
+
+[[files]]
 file = "config/hexcasting/server.json"
 hash = "d01683dd066b50bc2eea567af38bd70ec8d8ee2a662977df44c7343b92079ea1"
 
@@ -27,6 +35,10 @@ hash = "4438b404d1b94a8b748357a077bbd8c209053254549dcc0f4d4e059e95a1971f"
 [[files]]
 file = "config/serverpause-common.toml"
 hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
+
+[[files]]
+file = "config/slate_work.json5"
+hash = "b648456439d4f06d3d587203dbcb2b984c3de28725958bc774b1384964bb3fdf"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -232,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
-metafile = true
-
-[[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
 
 [[files]]
@@ -810,16 +817,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "53756963029d3281ce1001a6129367541d2e092b34a4bb1cafeff77f3ec28902"
-metafile = true
-
-[[files]]
-file = "mods/simplymore.pw.toml"
-hash = "7351e582d562ba9dc5ba3fb8c6906d831569ba0e55002f8ca8c6744898d9c84a"
 metafile = true
 
 [[files]]
