@@ -1,13 +1,13 @@
 name = "Focalworks"
-filename = "focalworks-1.1.2.1-HOTFIX.jar"
+filename = "focalworks-1.1.2.2-HOTFIX-HOTFIX.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EJYNkYPJ/versions/fuJP42KS/focalworks-1.1.2.1-HOTFIX.jar"
+url = "https://cdn.modrinth.com/data/EJYNkYPJ/versions/ARy4aunP/focalworks-1.1.2.2-HOTFIX-HOTFIX.jar"
 hash-format = "sha512"
-hash = "2cd5c1b1d7de85c458790a4ccbb81684637134ce153340748229c88ca09b611de1e9aa69f7fdfdbb13a40854b0a554811aeb255a3431e1e37328a031bb9d075f"
+hash = "471b78ec2f10663c619ca9e0444715b394dc0051e65d6ae9554225d35779290e89823495506c3cdf3532053b2c8e706bc6839eb2e9853672b09398c64d6a9b1c"
 
 [update]
 [update.modrinth]
 mod-id = "EJYNkYPJ"
-version = "fuJP42KS"
+version = "ARy4aunP"

@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/focalworks.pw.toml"
-hash = "f03065762d1affb52f704b8f8e856e687224de554362083e6c942022e705ca38"
+hash = "f0c6cd31c170cf6ad317b2cedb2e745727f7557077cd3af34ed2940796def3a2"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "6d2f8737793504cfbe3f7526d5088852f6cf9667155d2d7a242e548c46c40020"
+hash = "286d434f6b19179b451c8c80062d9f4b6b11c57d36391bcc20ae3b1e034901ae"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/krysztal-language-scala.pw.toml"
-hash = "8c3add343a166a3a40176f299c4e244bb877c9c903a9e101fb72a6e7f421808e"
+hash = "53f3be089f46dd31a6ecf5b9f533f9fac20904ae2288ecaa96d85f2e02085c41"
 metafile = true
 
 [[files]]
