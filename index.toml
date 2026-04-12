@@ -26,7 +26,7 @@ hash = "50f33323a23f849ae5398a9ec06671ab16d5d52b6ab5ab04aada9cb173e94bb0"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "d01683dd066b50bc2eea567af38bd70ec8d8ee2a662977df44c7343b92079ea1"
+hash = "bd79d149f6ff2f3a2722b8e3d08db5aaf1b189245cc49a6342549a615ee261b3"
 
 [[files]]
 file = "config/immersive_melodies.json"
@@ -695,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "f096668935fc99209f060afc22d0998ce2760179dad586e990a32f3d1fefd2aa"
 metafile = true
 
 [[files]]
