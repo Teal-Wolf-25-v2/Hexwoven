@@ -1,0 +1,8 @@
+name = "hexintent"
+filename = "manifestation-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/withgallantry/HexIntent/releases/download/v2.1.1/manifestation-2.1.1.jar"
+hash-format = "sha256"
+hash = "206a3a121fb01c1ab4bb4223c1c9079027900018feb1224ab15dd2ff0eae1a21"
