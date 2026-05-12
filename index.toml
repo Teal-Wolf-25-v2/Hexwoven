@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "070955c715a8e14c539cc605729ecadbaf67789915cbddf7f34ebc050989cdfe"
+hash = "1443f0bc1d45a5b524919c5fd32b2987b70af74a9e4c560b431ee080efc5defc"
 metafile = true
 
 [[files]]
