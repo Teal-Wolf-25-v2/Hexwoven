@@ -29,6 +29,10 @@ file = "config/hexcasting/server.json"
 hash = "bd79d149f6ff2f3a2722b8e3d08db5aaf1b189245cc49a6342549a615ee261b3"
 
 [[files]]
+file = "config/hexic.properties"
+hash = "36230b61129a738fa3815f6655d617258ef9fc4b27f0e469312417c2aab3651a"
+
+[[files]]
 file = "config/immersive_melodies.json"
 hash = "4438b404d1b94a8b748357a077bbd8c209053254549dcc0f4d4e059e95a1971f"
 
@@ -302,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b2787edb0a1d06b8bfb4c13bfbe0c09792789dda66cbbb42059f213a76b04637"
+hash = "b817736ee9d8a1dcd6bf8c0f95cddd9d42ea339e50134de5988bff2f5bd37f58"
 metafile = true
 
 [[files]]
@@ -476,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "286d434f6b19179b451c8c80062d9f4b6b11c57d36391bcc20ae3b1e034901ae"
+hash = "ccea3fadef2291822e5eb5616700c653f9e63ad0167f6d76dd45ec30712d463f"
 metafile = true
 
 [[files]]
@@ -792,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/phlib.pw.toml"
-hash = "b894f8bd6a0dac75b9223f6ab46fb268fa37dfc3f1f5a537b7169079c4ae6742"
+hash = "950020219d51b503468a28d7dee6d94b0ec092edd5066fef8424d9aaae26be19"
 metafile = true
 
 [[files]]
