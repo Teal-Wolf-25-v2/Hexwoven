@@ -82,6 +82,16 @@ hash = "526442c47ba82b999b269a20b865435de668c864068adcf1606deb33a20f9624"
 metafile = true
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
@@ -158,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0b6785c1591d5f88f4e177fc40b213d6f5716e4fbd5d970c891083205d71a8dd"
+hash = "f53bc4542e229d3d32127358a50773c521e051883bc75438bfa83f615eddd5b5"
 metafile = true
 
 [[files]]
@@ -212,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "dfd353fd79ec691f873e3d09fdcfbb2f391cda8461e1662435bbfb3e247066f1"
+hash = "8e10e164346d332374a3f590ab882911e564ec23abaa9d23fcce11df6f882df5"
 metafile = true
 
 [[files]]
@@ -306,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b817736ee9d8a1dcd6bf8c0f95cddd9d42ea339e50134de5988bff2f5bd37f58"
+hash = "fab2038d2a0e96185a7dbbdd40a52b707d34d2779c43384a65c94a18a09a5f9b"
 metafile = true
 
 [[files]]
@@ -372,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "25ccb0dd97330715a5a5dd4ab2a9820811085116ee7b6fa8d38e6b0d453321eb"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights-fabric.pw.toml"
+hash = "a7d4a849b3249499fd67eabfc08333add30bbdd432d5aac1264732e428ad9811"
 metafile = true
 
 [[files]]
@@ -460,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "b4e5789a8907a29451c22145e1914c7799da2a4736adc7d831b0b2c55c1a4c80"
+hash = "a7405f33ae83afcdcaa997eb9f164718692a54604f8d7be578d39180ddd25bf8"
 metafile = true
 
 [[files]]
@@ -489,7 +504,7 @@ hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
-hash = "4f767ec7dd550742eb3f93712a3468ac9b4fd6651b5915dcecdef1985d1cf593"
+hash = "14b3264d63890aa0d02eb3c701e73941427876529dccd2c24d7de7a8408ce9cb"
 metafile = true
 
 [[files]]
@@ -549,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "1443f0bc1d45a5b524919c5fd32b2987b70af74a9e4c560b431ee080efc5defc"
+hash = "b7fbd8bf8104866d8610ee5ccb7154d4e6cb750299adcb796fcba27dfc0af633"
 metafile = true
 
 [[files]]
@@ -623,11 +638,6 @@ hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "ed07c53deb483fd6cd8578803d91fe087435d8d81b317bd4fcbd1bb5d25d9022"
 metafile = true
@@ -649,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "5f92bbc36ffe9e6412ae0d691cf4be37916545e3aaef3ba1cf6adcfae81e2079"
+hash = "e833eb622eefc46ab75d06f2f57724454ca6b659a67e1113732a2638dbcf9f8e"
 metafile = true
 
 [[files]]
@@ -693,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9df70e05075bc6e043d9defcd67e9596235ca7667acba8ea64f2cbe5f27eab0b"
+hash = "bac0e8149a629d9e68d8e120b7d55e1a0c81ccae375982d860d8d6104808a1c1"
 metafile = true
 
 [[files]]
@@ -732,23 +742,28 @@ hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
 metafile = true
 
 [[files]]
-file = "mods/odyssey-allies.pw.toml"
-hash = "bded7a826b261f0e925468fb6b01419d1d375a675c87c49849e3a84145e11177"
-metafile = true
-
-[[files]]
-file = "mods/odyssey-claims.pw.toml"
-hash = "a341fe76a39246b0321458edb9528e24fa1015aa7eb96e4851b781c7e50c9063"
-metafile = true
-
-[[files]]
-file = "mods/odyssey-roles.pw.toml"
-hash = "e38efc43ea728e50ab27bc8130843d7ba8e3e74dc6e850f9867ecca28ff4f999"
-metafile = true
-
-[[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
 hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "c6fc14586b636aafe22189a59a3365bca4363e9a00ec4be08c8d5f94f2d80e18"
+metafile = true
+
+[[files]]
+file = "mods/origins-dietary-delights.pw.toml"
+hash = "faaa758dd45c60f751b075cdc3f6ba977f0e964e5cd28a2366f9173393020c90"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "faadbd329bd9b454d469c4ebdbcee1aa718b922c86ba68db8284152cb28ecf75"
+metafile = true
+
+[[files]]
+file = "mods/originstweaks.pw.toml"
+hash = "1b60003c996d51bf1579d487d8b5b52e7ae1169b511af078655a3fd00c35967b"
+metafile = true
 
 [[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
@@ -840,6 +855,11 @@ hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
+file = "mods/rules4worlds.pw.toml"
+hash = "c6d6f9cba021c8bb0cf031db394556e0db28ae8ff816b6263f048df61a3b9cd9"
+metafile = true
+
+[[files]]
 file = "mods/runes.pw.toml"
 hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
 metafile = true
@@ -855,7 +875,7 @@ hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "f155005706c8e2ac410157dabda9462c30525f41bcd155c1d38e8297c0f1a4e3"
+hash = "64bb9f1e36366e9f3fd617b765b5708a7aeb30d33b4ab04cd5f1361f9acc1c85"
 metafile = true
 
 [[files]]
@@ -870,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c70910870880249b6513a0b3ccfc5db5f5390ed28756c65c3988bfbfb154724e"
+hash = "1683ae7393d1f9e7b79dd7aabbb5622772aaa22b35eb60ad35b189bcd3472802"
 metafile = true
 
 [[files]]
@@ -964,6 +984,11 @@ hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
+file = "mods/warputils.pw.toml"
+hash = "6288d1f35e7a2b9faa7dc3a666303647ca7af8455de70b5f8671a1392f54ccb0"
+metafile = true
+
+[[files]]
 file = "mods/weaponsexpanded.pw.toml"
 hash = "b40c5fad3fa0738734cdd0c3310560a23ad32dbe6ac7f2c8d0d3b4682b6664c9"
 metafile = true
@@ -971,6 +996,16 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "35ce6bc4ddd617ad5f83cae9328627c6ec7a15847ed67ce6535c4cbbab87ede0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c6bfd205ab19e32992fd245197ced9cfe8313fd47dee527dc973f413eee221e7"
 metafile = true
 
 [[files]]
@@ -1030,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
 
 [[files]]
