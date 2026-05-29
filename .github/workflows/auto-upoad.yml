@@ -45,7 +45,7 @@ jobs:
       - name: Export Modpack
         uses: hudsonm62/packwiz-action@v1
         with:
-          args: packwiz modrinth export --pack-file $GITHUB_WORKSPACE/pack.toml -o $GITHUB_WORKSPACE/pack.mrpack
+          args: modrinth export --pack-file $GITHUB_WORKSPACE/pack.toml -o $GITHUB_WORKSPACE/pack.mrpack
 
 
       - name: Grab repo path
