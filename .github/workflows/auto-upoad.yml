@@ -23,9 +23,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      - name: Packwiz Action
-        uses: hudsonm62/packwiz-action@v1
-
       - uses: SebRollen/toml-action@v1.2.0
         id: pack_name
         with:
@@ -46,7 +43,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Export Modpack
-        run: packwiz modrinth export --pack-file $GITHUB_WORKSPACE/pack.toml -o $GITHUB_WORKSPACE/pack.mrpack
+        uses: hudsonm62/packwiz-action@v1
+        with:
+          args: packwiz modrinth export --pack-file $GITHUB_WORKSPACE/pack.toml -o $GITHUB_WORKSPACE/pack.mrpack
 
 
       - name: Grab repo path
