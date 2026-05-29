@@ -658,6 +658,11 @@ hash = "968ebc0ac017432971e093cf7ac83657d2dcf30014d5549402a431a2bd8be95f"
 metafile = true
 
 [[files]]
+file = "mods/lampblack.pw.toml"
+hash = "79ae66c415dcced523a4650926b66f8893777585eef56cc10c2dfaeec8a46835"
+metafile = true
+
+[[files]]
 file = "mods/lapisworks.pw.toml"
 hash = "e833eb622eefc46ab75d06f2f57724454ca6b659a67e1113732a2638dbcf9f8e"
 metafile = true
