@@ -894,6 +894,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/showyouridentity.pw.toml"
+hash = "089884b6aa137feeb5c3bf1777f35f3a84e0e0d2a0fc83c2ffd97a15847e5e79"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "1683ae7393d1f9e7b79dd7aabbb5622772aaa22b35eb60ad35b189bcd3472802"
 metafile = true
