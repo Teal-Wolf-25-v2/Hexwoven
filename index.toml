@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "fab2038d2a0e96185a7dbbdd40a52b707d34d2779c43384a65c94a18a09a5f9b"
+hash = "63966d5a31c8d1b2f5d23706c55bccd574d4d94ba2527406772b6c6c0963d9db"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairy-lights-fabric.pw.toml"
-hash = "a7d4a849b3249499fd67eabfc08333add30bbdd432d5aac1264732e428ad9811"
+hash = "b84047d91cb99449ce387cff5f230bf22c4ed823427098dabce1194ae9330bd4"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
-hash = "14b3264d63890aa0d02eb3c701e73941427876529dccd2c24d7de7a8408ce9cb"
+hash = "19363269f903c7263a858f00272194ba15122493d8ff6902c426772ad46ccd6b"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "b7fbd8bf8104866d8610ee5ccb7154d4e6cb750299adcb796fcba27dfc0af633"
+hash = "599ca58fc7328c6f842c3a73893541048033133b3e25c96bd61bb88244cc2e4a"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "e833eb622eefc46ab75d06f2f57724454ca6b659a67e1113732a2638dbcf9f8e"
+hash = "41009b73717d532d0f7ecb89cadf19c8a04f4a39963c176949d91c8d8e41b0d0"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bac0e8149a629d9e68d8e120b7d55e1a0c81ccae375982d860d8d6104808a1c1"
+hash = "b8759aeb6d653f17c2acb1bc6cd9633154e4ef0e50a2c8e05c03f35fdc5fca3d"
 metafile = true
 
 [[files]]
@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "25fc96c07dd6096e008098c445ea58626b79c085bfe99b2f8515d5e2ef361936"
+hash = "87b5362924a2bdbf095d44ed072bb9298d09c0975a28b1809c6109767c51d305"
 metafile = true
 
 [[files]]
