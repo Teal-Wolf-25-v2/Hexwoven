@@ -3,13 +3,17 @@ ServerEvents.recipes(event => {
 		let phials = grid.findAll(Item.of("hexcasting:battery").ignoreNBT())
 		let media = 0
 		let maxMedia = 0
+		let maxMedias = []
+		let recharge = 0
 		let nbt
 		phials.forEach(phial => {
 			media += phial.nbt["hexcasting:media"]
-			maxMedia += phial.nbt["hexcasting:start_media"]
+			recharge += (phial.nbt["hexcasting:start_media"] - phial.nbt["hexcasting:media"])*0.1
+			maxMedias.push(phial.nbt["hexcasting:start_media"])
 			if (phial.nbt != null) nbt = phial.nbt
 		});
-		if (nbt == undefined) return itemstack
+		maxMedia = Math.round(maxMedias[0] + recharge)
+		if (nbt == undefined && media > 128) return itemstack
 		nbt["hexcasting:media"] = media
 		nbt["hexcasting:start_media"] = maxMedia
 		return result.withNBT(nbt)
