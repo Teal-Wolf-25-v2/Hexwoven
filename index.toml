@@ -26,7 +26,7 @@ hash = "50f33323a23f849ae5398a9ec06671ab16d5d52b6ab5ab04aada9cb173e94bb0"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "bd79d149f6ff2f3a2722b8e3d08db5aaf1b189245cc49a6342549a615ee261b3"
+hash = "6d094c70a4b54786a36397f216c1b90b76b53a7c891cf804aef63bbf8512df32"
 
 [[files]]
 file = "config/hexic.properties"
