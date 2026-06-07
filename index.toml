@@ -509,8 +509,8 @@ hash = "ccea3fadef2291822e5eb5616700c653f9e63ad0167f6d76dd45ec30712d463f"
 metafile = true
 
 [[files]]
-file = "mods/hexical-2.0.0-rc-1.jar"
-hash = "0a3226a6b6bfc2e92a02b0c9dc8a2b7cbd1e719eb020b30ab321b59e192f94f7"
+file = "mods/hexical-2.0.0-rc1-fixed.jar"
+hash = "4800e23405f0222bafaa63667d2d4d2ce42297e0ade44bc7443d55539f77178e"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
