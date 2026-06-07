@@ -147,11 +147,6 @@ hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
 metafile = true
 
 [[files]]
-file = "mods/caduceus.pw.toml"
-hash = "870c93531e99b2c4e9385d52b02b39fec974a24de0a6e316c18ae68c1b873bbc"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
