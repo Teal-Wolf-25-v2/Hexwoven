@@ -37,6 +37,10 @@ file = "config/immersive_melodies.json"
 hash = "4438b404d1b94a8b748357a077bbd8c209053254549dcc0f4d4e059e95a1971f"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "8e53e64db9b25770306d5f5422f3dc75747b072a4d80053bd094f78ae36f3d4e"
+
+[[files]]
 file = "config/serverpause-common.toml"
 hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
 
