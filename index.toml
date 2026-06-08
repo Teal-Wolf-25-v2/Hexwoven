@@ -509,8 +509,8 @@ hash = "ccea3fadef2291822e5eb5616700c653f9e63ad0167f6d76dd45ec30712d463f"
 metafile = true
 
 [[files]]
-file = "mods/hexical-2.0.0-rc1-fixed.jar"
-hash = "4800e23405f0222bafaa63667d2d4d2ce42297e0ade44bc7443d55539f77178e"
+file = "mods/hexical-2.0.0-e0d7ef9.jar"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "c92c1ff6925ac157ffe7741a7a2f24b1d921a12b7ca4d69aa90db280012e3903"
+hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
 metafile = true
 
 [[files]]
