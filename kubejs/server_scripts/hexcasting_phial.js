@@ -11,8 +11,9 @@ ServerEvents.recipes(event => {
 			recharge += (phial.nbt["hexcasting:start_media"] - phial.nbt["hexcasting:media"])*0.1
 			maxMedias.push(phial.nbt["hexcasting:start_media"])
 			if (phial.nbt != null) nbt = phial.nbt
-		});
-		maxMedia = Math.round(maxMedias[0] + recharge)
+    });
+
+		maxMedia = Math.round(Math.max(...maxMedias) + recharge)
 		if (nbt == undefined && media > 128) return itemstack
 		nbt["hexcasting:media"] = media
 		nbt["hexcasting:start_media"] = maxMedia

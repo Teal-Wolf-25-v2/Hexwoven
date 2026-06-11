@@ -62,7 +62,7 @@ hash = "af82b4ff051e7f383b5ca34a12a329ffca7a8366a20caf972df535afcb149a23"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"
-hash = "a8db89eeb057b2fe657d97f5fa30daebd5d7e67c8e7ecd32596cc33bf0c380e3"
+hash = "725d484f419c46e1265b8e480bcb3d890d3ccd0d87012eb35f06c8eda7a58774"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
