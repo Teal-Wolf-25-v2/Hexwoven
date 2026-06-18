@@ -4,7 +4,8 @@
 # Exclude README
 /README.md
 
-# Exclude GitHub shenanigans
+# Exclude git shenanigans
 /.github/
+/.forgejo/
 
 /.jj/
