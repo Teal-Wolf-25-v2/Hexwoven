@@ -81,6 +81,11 @@ hash = "ebdae4912ef604b43ade3d60b67726a356e348a68377367a5641e250811d00bf"
 metafile = true
 
 [[files]]
+file = "mods/dimension-leak-fix.pw.toml"
+hash = "4d2c5cb8186f638c5f13d6793f0d421e98c853250f1cde8910c66ee87e83ebba"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
 metafile = true
