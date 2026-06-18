@@ -42,7 +42,7 @@
       "green": true,
       "underline": true,
       "dark_green": true,
-      "black": true,
+      "black": false,
       "yellow": true,
       "bold": true,
       "italic": true,
@@ -93,19 +93,6 @@
       "display_name": "<dark_gray>[</dark_gray><c:#007f7f>Admin</c><dark_gray>]</dark_gray> ${default}",
       "message_formats": {
         "chat": "${player} <c:#007f7f>»</c> <#94ffff>${message}"
-      },
-      "formatting": {},
-      "emoticons": {},
-      "custom_message_types": {}
-    },
-    {
-      "require": {
-        "type": "permission",
-        "permission": "group.moderator"
-      },
-      "display_name": "<dark_gray>[</dark_gray><c:#00ff00>Moderator</c><dark_gray>]</dark_gray> ${default}",
-      "message_formats": {
-        "chat": "${player} <c:#007f7f>»</c> <#deffff>${message}"
       },
       "formatting": {},
       "emoticons": {},

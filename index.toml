@@ -26,7 +26,7 @@ hash = "50f33323a23f849ae5398a9ec06671ab16d5d52b6ab5ab04aada9cb173e94bb0"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "6d094c70a4b54786a36397f216c1b90b76b53a7c891cf804aef63bbf8512df32"
+hash = "36ca658d73b268a9a1febfeb7148b6845f9c91b54061a24e978c6d5c85c3c32c"
 
 [[files]]
 file = "config/hexic.properties"
@@ -38,11 +38,11 @@ hash = "4438b404d1b94a8b748357a077bbd8c209053254549dcc0f4d4e059e95a1971f"
 
 [[files]]
 file = "config/remapped_patterns.lst"
-hash = "a0bdd115821e32f2f9a82e7bda722fc1a6403225d35b5e5ec2217d731b6e7ba3"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/serverpause-common.toml"
-hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
+hash = "155100a8cb7de715352ab0fc2a47c21bad7d90853e8cdcab76e53c3144a63ee6"
 
 [[files]]
 file = "config/slate_work.json5"
@@ -50,11 +50,11 @@ hash = "b648456439d4f06d3d587203dbcb2b984c3de28725958bc774b1384964bb3fdf"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "b929a0c367b1965a0b532c7c64a42cf92aebe400f1c789c6a9eeb678bae2d9cb"
+hash = "8d08c93f8bf5957c1ead92b980459f589f5d1caf27db1a908bf95fbe8ddc15eb"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "af82b4ff051e7f383b5ca34a12a329ffca7a8366a20caf972df535afcb149a23"
+hash = "5a3ffb92c398e9455bc186af378f8dd77de91fa6dd82464ff989bb343fdb7f13"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"

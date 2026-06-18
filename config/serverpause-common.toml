@@ -5,7 +5,7 @@
 	pauseWhenAllPlayersPaused = false
 
 	# Set to true to pause the server when no players are connected.
-	pauseWhenNoPlayers = false
+	pauseWhenNoPlayers = true
 
 	# Set to true to send a chat message to all players when the server pause state changes.
 	sendChatMessageWhenPauseStateChanges = false
@@ -19,4 +19,3 @@
 
 	# Disables these mod compatibilities if any errors occur with them turned on. Accepts: valkyrienSkies
 	disabledCompatibilities = []
-
