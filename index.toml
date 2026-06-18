@@ -121,6 +121,11 @@ hash = "6ebd1ccf4ac932fc0f860b787ed1b97bb1bf38abc56d5e96cd94a787fbe22127"
 metafile = true
 
 [[files]]
+file = "mods/glowcase.pw.toml"
+hash = "43dce3aef37c6609c9da0b70acf4280e243204bdcf66151dc53186fd008e7b0c"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "e7618fe94cbf0b7ea032e45cb448ab8151773ef71adb6dda8becd4d2fcc4dab5"
 metafile = true
