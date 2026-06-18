@@ -71,6 +71,11 @@ hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "02e4f1342a25791634a39ae7d56c81e807ff09c4c75db4af963678ac91a69a14"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "8e10e164346d332374a3f590ab882911e564ec23abaa9d23fcce11df6f882df5"
 metafile = true
@@ -171,6 +176,11 @@ hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
 
 [[files]]
+file = "mods/mclogs.pw.toml"
+hash = "675d785982758d81373900f5a0b1e9779dd53f369ec3bf06464019a73e6059df"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "87b5362924a2bdbf095d44ed072bb9298d09c0975a28b1809c6109767c51d305"
 metafile = true
 
 [[files]]
