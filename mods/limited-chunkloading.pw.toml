@@ -1,0 +1,13 @@
+name = "Limited Chunkloading - Chunk cleanup[Forge/Fabric]"
+filename = "limitedchunks-fabric-1.20.1-4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d15d362874dc27cd39c396dee229d974b6afc6c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5387593
+project-id = 456640
