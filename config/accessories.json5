@@ -10,7 +10,7 @@
 		"disableEmptySlotScreenError": false,
 		"allowSlotScrolling": true,
 		"showUnusedSlots": false,
-		"equipControl": "NEVER",
+		"equipControl": "DISABLED",
 		"hoverOptions": {
 			"hoveredOptions": {
 				"brightenHovered": true,
