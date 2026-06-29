@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
+hash = "024a525c7d8b1c6e50ff51e0b5a75240958134255b6b0db202b1a8b5fb3a460f"
 metafile = true
 
 [[files]]
