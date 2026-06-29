@@ -105,6 +105,11 @@ hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "d48e943c59dd7c5c0c20b80afd23e18e05385ed79b37e80238f949ec0f5e8d9c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -772,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/noconsolespam.pw.toml"
 hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "8f6b83625e06798510048832addd6b1bf709b5d5e7dba438d002fe2dc110981b"
 metafile = true
 
 [[files]]
