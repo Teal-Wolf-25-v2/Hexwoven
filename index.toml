@@ -721,6 +721,11 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "d6f183a84724222061472af24c2d918eb48947ee0bcd4034d3502227a4ebede4"
+metafile = true
+
+[[files]]
 file = "mods/mod-tools-1.1.5+1.20.1.jar"
 hash = "daf4bdc48ea74803bbf1b50cf41ea22680c1cc6e207b7fcb97510999f17a27e6"
 
