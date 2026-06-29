@@ -488,8 +488,8 @@ hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
 
 [[files]]
-file = "mods/hexcassettes-2.0.0.jar"
-hash = "000121db194fde79a93aab7572844bca3ed6c5908517bd44377fe633fbae8324"
+file = "mods/hexcassettes-2.0.0-b7d281b.jar"
+hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
@@ -522,8 +522,8 @@ hash = "ccea3fadef2291822e5eb5616700c653f9e63ad0167f6d76dd45ec30712d463f"
 metafile = true
 
 [[files]]
-file = "mods/hexical-2.0.0-rc1.jar"
-hash = "6f95a57d46fc6711e00d1df14fb7d9351ef3cbf0b9da4f121a8ca6ab9323d9af"
+file = "mods/hexical-2.0.0-e0d7ef9.jar"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "024a525c7d8b1c6e50ff51e0b5a75240958134255b6b0db202b1a8b5fb3a460f"
+hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
 metafile = true
 
 [[files]]
