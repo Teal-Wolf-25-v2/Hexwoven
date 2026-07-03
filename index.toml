@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
+hash = "d180e968e32a59cf192a73916744fba964f31c1cb6bb1fe894e3d137b5df8c03"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
-hash = "e82b8615f320513cad30a3e68163a6356c0d85f50dcf5b9a419db168535df7ce"
+hash = "ebea0e906b99b0fc5726063f514e791c1ffeed4af75b8185debc533a793a4614"
 metafile = true
 
 [[files]]
@@ -770,11 +770,6 @@ hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
 
 [[files]]
-file = "mods/neruina.pw.toml"
-hash = "87b5362924a2bdbf095d44ed072bb9298d09c0975a28b1809c6109767c51d305"
-metafile = true
-
-[[files]]
 file = "mods/noconsolespam.pw.toml"
 hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
 metafile = true
@@ -942,8 +937,9 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/sewn_hexes-0.1.0.jar"
-hash = "0ffb27828a1b9bd84bc3e9a132187a5fc0b36712b3608c66fb8cf9c68a9e8a46"
+file = "mods/sewn-hexes.pw.toml"
+hash = "5ce0c6a49dce3ba7e735a9eb95ca24c437ec7ec724cf0f84647f3af947bd289a"
+metafile = true
 
 [[files]]
 file = "mods/showyouridentity.pw.toml"
@@ -1077,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaha.pw.toml"
-hash = "a32bfa78f9cd1ad337fa6782a1d00e01b442a861d111714115ae2a4b949fa4c7"
+hash = "551a3e84b96de989d70c86e2c8b20986fd009dc690a83a5882dab206da97e0df"
 metafile = true
 
 [[files]]
@@ -1132,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "9d611dca9d1af11a43d3bda6ef6d5ef7389b9184e62e82f1bcfe7aa4a9f68fbd"
+hash = "43c4f5e052b72a8ceaf9d8e5d1000760464d4f0e9d630827140ec4dcb21832e6"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Yet Another Hex Addon"
-filename = "YAHA-0.3.1.jar"
+filename = "YAHA-0.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bqci4HwY/versions/rHES4NIB/YAHA-0.3.1.jar"
+url = "https://cdn.modrinth.com/data/Bqci4HwY/versions/rfBIwZYX/YAHA-0.4.0.jar"
 hash-format = "sha512"
-hash = "1d83a73d8c97e2ae078f46ac31a81f9d861b1afb7f8597c13d7bbfd637f456e73a9ec4e772cddb2c0422ed9789d08ad38e40b48641319c2663c117a7ed580ec0"
+hash = "434fb67fd12f8b3c56be65a7a804d814f54f579dd57844487dcf0dc01448cfad000700a18cdd421bc7fbeab8284b75bc97a4ff923a5edfda7796ef4ce0a7688e"
 
 [update]
 [update.modrinth]
 mod-id = "Bqci4HwY"
-version = "rHES4NIB"
+version = "rfBIwZYX"
