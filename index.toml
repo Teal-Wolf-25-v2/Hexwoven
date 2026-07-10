@@ -45,6 +45,10 @@ file = "config/serverpause-common.toml"
 hash = "155100a8cb7de715352ab0fc2a47c21bad7d90853e8cdcab76e53c3144a63ee6"
 
 [[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "bf97e4413e7f768b47d587ef62e233d37c29fea51149a983234540801c0060e3"
+
+[[files]]
 file = "config/slate_work.json5"
 hash = "b648456439d4f06d3d587203dbcb2b984c3de28725958bc774b1384964bb3fdf"
 
@@ -191,11 +195,6 @@ hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
 
 [[files]]
-file = "mods/neruina.pw.toml"
-hash = "87b5362924a2bdbf095d44ed072bb9298d09c0975a28b1809c6109767c51d305"
-metafile = true
-
-[[files]]
 file = "mods/noconsolespam.pw.toml"
 hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
 metafile = true
@@ -243,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/showyouridentity.pw.toml"
 hash = "089884b6aa137feeb5c3bf1777f35f3a84e0e0d2a0fc83c2ffd97a15847e5e79"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "b9b008f72e100d9a78b47c043dc4c76c761479ae8290067a7665d4e42520d9f7"
 metafile = true
 
 [[files]]
