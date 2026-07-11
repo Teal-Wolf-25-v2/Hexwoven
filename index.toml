@@ -6,7 +6,7 @@ hash = "b6c9c9f6a320d94ecde0ef13c02c1f64fa19d7749e9ee3d8c2051461b7f1584f"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b02581dc4ae41f749cf05166bf52db5d30e10e4de482d242c8fd532ddf556839"
+hash = "ddcb6f44cdfe49a9c26050797a6edb385a7779fbc28d6165e72280772e350c9d"
 
 [[files]]
 file = "config/creeper-healing.toml"
