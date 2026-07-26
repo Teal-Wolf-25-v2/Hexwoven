@@ -1,11 +1,11 @@
 name = "Slate Works"
-filename = "Slate_Work-2.2.0+1ac9f34e.jar"
+filename = "Slate_Work-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://repo.pool.net.eu.org/pub/org/sophia/Slate_Work/2.2.0+1ac9f34e/Slate_Work-2.2.0+1ac9f34e.jar"
+url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/zTTVX4Io/Slate_Work-2.2.0.jar"
 hash-format = "sha512"
-hash = "7f42c60f72ff0f1c31a962c2c4d68c156f34d6e9220bc440fb103cd61fc2a0e17299e122b7fb06f7f6ac6db336e658454edde1db181894479d723bbf16bf52a0"
+hash = "e8d1fb97c10f3a047613f41c2188ff64206290b1535f642a09e40a3bf4e423d0ba0cb3ba5490ec0960992478bc953e7d2ce41d591cda94b50900dcfc6d05d431"
 
 [update]
 [update.modrinth]

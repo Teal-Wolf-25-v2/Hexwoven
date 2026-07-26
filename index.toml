@@ -527,7 +527,7 @@ hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
-hash = "ebea0e906b99b0fc5726063f514e791c1ffeed4af75b8185debc533a793a4614"
+hash = "6032616985845c09c0c6afc263a5d9b4fd906fc526c4016fff37d00be7a61206"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "484776739cd3a7985d530265bf962894596cd2093a05904899d5868356d01866"
+hash = "65b1057244621ec8e282977fe7fc404d96fe8d764bad6fa4fe4e025945ecd80a"
 metafile = true
 
 [[files]]
