@@ -180,6 +180,11 @@ hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
 
 [[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "31e42aa7b60984481a2a8b5027b02a5f85b50da7a69812009a50b5301fa83191"
+metafile = true
+
+[[files]]
 file = "mods/mclogs.pw.toml"
 hash = "675d785982758d81373900f5a0b1e9779dd53f369ec3bf06464019a73e6059df"
 metafile = true
