@@ -200,6 +200,11 @@ hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "240ab7ff7af9d33839ee32b33544e9a44d96f50eec7b025c7f8ed29e64bec41a"
+metafile = true
+
+[[files]]
 file = "mods/noconsolespam.pw.toml"
 hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
 metafile = true
