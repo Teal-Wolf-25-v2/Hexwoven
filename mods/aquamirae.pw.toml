@@ -1,13 +1,13 @@
 name = "Aquamirae"
-filename = "Aquamirae-6.jar"
+filename = "aquamirae-fabric-1.20.1-7.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar"
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/jw5kM15g/aquamirae-fabric-1.20.1-7.1.9.jar"
 hash-format = "sha512"
-hash = "c047063fb7b54cf107554992a9341470c622c178a89a1135c9204b347034bf9dfc757f09f1f96fcc20852868c0c11fb18ca7151ec0e2b87556f516011b0f59b1"
+hash = "ca850527c1c123d63a3a1aa69803a2d7038fd45e890bb41ba3f562e4ed8711cac49cb19f3f5347b43a9d770987fdac59b6cec6d4b094a39a185a0c1eb2b3f94d"
 
 [update]
 [update.modrinth]
 mod-id = "k23mNPhZ"
-version = "ouUaC54p"
+version = "jw5kM15g"

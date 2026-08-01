@@ -1,13 +1,13 @@
 name = "Create: Portal Integration"
-filename = "createportalintegration-fabric-0.0.1+6.0+1.20.1.jar"
+filename = "createportalintegration-fabric-0.0.2+6.0+1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/2f4ngcAb/versions/BHXyjDgR/createportalintegration-fabric-0.0.1%2B6.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/2f4ngcAb/versions/HCJ1xhSS/createportalintegration-fabric-0.0.2%2B6.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "81fb9df224f1465f9b1715ec210f1adc916b54c4f325fabc38959199c8d6f61c36e878b7034d0ea9e141f6000d64a09bc65a390a85b3ac289c3eff9e7625d31e"
+hash = "0a6b75651845b10a88905f92bf86f4da76359f799dc1d1af65fdfd042b962cf24c9b6538d2f325d8b058ad36bbb3ed2cd868a8896434e3fff22eccbcb0753491"
 
 [update]
 [update.modrinth]
 mod-id = "2f4ngcAb"
-version = "BHXyjDgR"
+version = "HCJ1xhSS"
