@@ -448,6 +448,11 @@ hash = "6ebd1ccf4ac932fc0f860b787ed1b97bb1bf38abc56d5e96cd94a787fbe22127"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "77cefdee0e11fd22a8de11f02763cbfe06ee5b0edadac151cda51b61749927e3"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
