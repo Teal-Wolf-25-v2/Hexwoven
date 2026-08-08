@@ -4,7 +4,7 @@ filename = "phlib-0.1.4.jar"
 [download]
 url = "https://cdn.modrinth.com/data/n1KUg8nl/versions/TbDrX89n/phlib-0.1.4.jar"
 hash-format = "sha256"
-hash = "0d1bb3ca1acbb79a6d29abf2592b7dfc6c372f4170d84d0753799c848ead6b75"
+hash = "6c0d3ca2fda0ded81f2693afda286c3409ba4209bc5a42394983506ae1e91b0e"
 
 [update]
 [update.modrinth]
