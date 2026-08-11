@@ -1,13 +1,13 @@
 name = "Hexic"
-filename = "hexic-2.1.1+b63412f.jar"
+filename = "hexic-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://repo.pool.net.eu.org/pub/org/eu/net/pool/hexic/2.1.1+b63412f/hexic-2.1.1+b63412f.jar"
-hash-format = "sha512"
-hash = "58922be811ca8dbbea8e37cc132c4be7585b3d6ba14ea3c4bde62089d418798058bac6062cf237e8f2503ce9d963dc400dca5b5c0893bae1fb3b089de8b11917"
+url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/kIBiQuE8/hexic-2.1.1.jar"
+hash-format = "sha256"
+hash = "f64cdc448122c8735e99c2bee7bd8b5d0139b68e26ce298208bc7e7e115beba4"
 
 [update]
 [update.modrinth]
 mod-id = "2wn8r7k5"
-version = ""
+version = "kIBiQuE8"
