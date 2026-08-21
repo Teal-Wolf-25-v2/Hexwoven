@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
+hash = "a2115824c50f99bcfcd02bb38db055537505e361069786e88a8936f0df4c5665"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "b097d362011bc9a5e9c11c0f38c6189dd9433e5438f2046589fec128f44d0bc0"
+hash = "697a2a2108431012e01bd967ea0e9204f067a846d11b9930bcdaad07913f2e92"
 metafile = true
 
 [[files]]
@@ -181,12 +181,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "69016da74a8f35891485baab48920e0802ea5fbb31649654d14afa49ba63d500"
+hash = "591f60984051ca4e54885225cc4746d50d07544f7f95da2d11f3d8c74bc593ca"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8dd06cfe4b75a0aaf6d0f01874ad7ef48a8b71f5c5b6cc11872575286e514f79"
+hash = "dac40b3c5cbb25ff9645804ac2b430670663d411509b8a4b0ca980e7e243755e"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
+hash = "7a2f11b7d5574ba34993d279c2ddd0866451de9524edf9fa232b8e9c27b57458"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "d5ef3b8c25e25ecd94336ebd124a524f06216953daaf1150a7ad1bc9d7847651"
+hash = "e43078e2ac0f7bc71ba1d75b84a615dabc0ebbd81850082794002d208a08e7cf"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
-hash = "4d2c5cb8186f638c5f13d6793f0d421e98c853250f1cde8910c66ee87e83ebba"
+hash = "7d49d170b4d305bbe87e77a59ea8e9a16d9041ab34595f8977563271f9bb8c71"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
+hash = "e2d45e0b5c2f9717de6034dff19ae11e59829b6cac3deafb8caf862dfa1e5685"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "6e8a069fbe68b69b2ab2a73a38a515d37bdb7634a1a980ee9a13767046d1bab0"
+hash = "2ad3a56921ccd77b9eb098ae59158d360ad25985fd999cffd872ecd527d79ad3"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexflow.pw.toml"
-hash = "a8afc45e3c60413f40a82165f81e23216cd25cf32436e3cc97e86fe7fe35db66"
+hash = "bbf1f9077e3820fc1c6cc8db045e36c28534887b873b9109ad566f2b710bda3b"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "5d970f6d44b3b26bfeaf449608f53590a5f0ef8e707bcd2066453aebbc96bd41"
+hash = "2e83cfcad4d95f901358dbade7eda8912984ae22426a641e74e1347bf157dfb0"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "a4fcda5abf0d1e3ad4ace9e00964c4f7ee46302c94b0b7680ffb420a95a3040e"
+hash = "e8bb6d78fd50d9702205a76b108e1e82d23dbcf69b27e50462c8148acae4bd05"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "90455c3cee4c5e3aef95cf389ca99d36c2f36d28cd77125042e07fd47c6d494b"
+hash = "eea3d946b8012e62880132ec514d56b909c603b2c17a0e9e8adfbaa19f5fb617"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib39.pw.toml"
-hash = "44085d416686ea01befa8cd530fe2c9bb3276926bca43144fd290ee1874c805a"
+hash = "2a75885e76f599c4d826ab0386d5fedaad83a1c254c8ccc6c9b396b4e7e8af16"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "31ab417e4be177e7c52fe55cf01c2b196ed41547e24b79be19ea74d28f1987a3"
+hash = "c74e3bb476eff95669bebe84dadcebaef12ea03b5c69a17773280909bc0f4b9d"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5e084c0b52b899abe81ce62f9d53c34612e32a5c5bd2524f0d3349c5bbf1de9d"
+hash = "0be55b277946be6b178bbe559bed59ffa9689f0e36cec3a317b87f5a376bb72f"
 metafile = true
 
 [[files]]
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/weaponsexpanded.pw.toml"
-hash = "b40c5fad3fa0738734cdd0c3310560a23ad32dbe6ac7f2c8d0d3b4682b6664c9"
+hash = "833cdf1242bc7d28fcf4de29cbff5574c49fa7edb6284c04427074c2e2092216"
 metafile = true
 
 [[files]]
@@ -1073,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0a2f75b607680f498133e71557084be2a89b5b876388ef9caa40fb4cc566bdff"
+hash = "936f9798833156f12452bbb94df69941e2a2502fadfab4615f9b65b300b7985b"
 metafile = true
 
 [[files]]
