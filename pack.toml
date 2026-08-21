@@ -1,6 +1,6 @@
 name = "Hexwoven"
 author = "Teal Wolf 25"
-version = "5.15.0"
+version = "5.15.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "81ab2419fa211429ea0439d076ee2ea3b0a7153d622708b6dad40e38405b2390"
 
 [versions]
-fabric = "0.19.2"
+fabric = "0.19.3"
 minecraft = "1.20.1"
