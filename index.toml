@@ -463,6 +463,11 @@ hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
+file = "mods/glowcase.pw.toml"
+hash = "43dce3aef37c6609c9da0b70acf4280e243204bdcf66151dc53186fd008e7b0c"
+metafile = true
+
+[[files]]
 file = "mods/gravity-api-fork.pw.toml"
 hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
