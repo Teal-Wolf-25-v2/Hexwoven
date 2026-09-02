@@ -66,7 +66,7 @@ hash = "004f7ce9d0c4db0943ed4f275fc19cb78b37e5dc7b0dc110b851aa8dc607ca00"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2babc2a3eed6143a112c848633d937d48235368f934d06f9a002e943d7c3adde"
+hash = "dac40b3c5cbb25ff9645804ac2b430670663d411509b8a4b0ca980e7e243755e"
 metafile = true
 
 [[files]]
@@ -91,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
-hash = "4d2c5cb8186f638c5f13d6793f0d421e98c853250f1cde8910c66ee87e83ebba"
+hash = "7d49d170b4d305bbe87e77a59ea8e9a16d9041ab34595f8977563271f9bb8c71"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
+hash = "e2d45e0b5c2f9717de6034dff19ae11e59829b6cac3deafb8caf862dfa1e5685"
 metafile = true
 
 [[files]]
@@ -106,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "e7618fe94cbf0b7ea032e45cb448ab8151773ef71adb6dda8becd4d2fcc4dab5"
+hash = "7d8bbebc701fc5ae2bf834b98ffd5709c773c27a06400c114a91ce5c4313ed69"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "59dda81c8012a0624e341357b0e21fde91b66e5774ffaa73ab875e06f214bd6b"
+hash = "5d5118126ec1e5f31f61372e87b3e4f9e4aaa485c95f908c276fc3faecea4fe7"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "64bb9f1e36366e9f3fd617b765b5708a7aeb30d33b4ab04cd5f1361f9acc1c85"
+hash = "51a0eea1834c166d9bed01170f686741863b6e16a49b71d219b69ecbc6206807"
 metafile = true
 
 [[files]]
@@ -256,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "b9b008f72e100d9a78b47c043dc4c76c761479ae8290067a7665d4e42520d9f7"
+hash = "a5d8e36f4138f75eac6a96eb1e3f2f0de902fa3fce33bcfb0ca205ba46c8ae56"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1683ae7393d1f9e7b79dd7aabbb5622772aaa22b35eb60ad35b189bcd3472802"
+hash = "0be55b277946be6b178bbe559bed59ffa9689f0e36cec3a317b87f5a376bb72f"
 metafile = true
 
 [[files]]
@@ -301,12 +301,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "35ce6bc4ddd617ad5f83cae9328627c6ec7a15847ed67ce6535c4cbbab87ede0"
+hash = "27c15c41714ade0d4a5b5c101daaeb1313964718d8cdae71a889f55bf7a2d485"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c6bfd205ab19e32992fd245197ced9cfe8313fd47dee527dc973f413eee221e7"
+hash = "936f9798833156f12452bbb94df69941e2a2502fadfab4615f9b65b300b7985b"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "9d611dca9d1af11a43d3bda6ef6d5ef7389b9184e62e82f1bcfe7aa4a9f68fbd"
+hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
 metafile = true
 
 [[files]]
