@@ -85,6 +85,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "83f7397ee4fdddb352f166d0523d0b728d9ca6de66015c48ad2e85eb863f8c90"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "02e4f1342a25791634a39ae7d56c81e807ff09c4c75db4af963678ac91a69a14"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -225,6 +235,11 @@ hash = "5d5118126ec1e5f31f61372e87b3e4f9e4aaa485c95f908c276fc3faecea4fe7"
 metafile = true
 
 [[files]]
+file = "mods/kilt.pw.toml"
+hash = "a5c7c30785539dc3e0873a227e55ff332ed46f9c774e88648419c2716fe10ada"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "968ebc0ac017432971e093cf7ac83657d2dcf30014d5549402a431a2bd8be95f"
 metafile = true
@@ -242,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "31e42aa7b60984481a2a8b5027b02a5f85b50da7a69812009a50b5301fa83191"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
 metafile = true
 
 [[files]]
@@ -335,6 +355,11 @@ hash = "51a0eea1834c166d9bed01170f686741863b6e16a49b71d219b69ecbc6206807"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
 file = "mods/showyouridentity.pw.toml"
 hash = "089884b6aa137feeb5c3bf1777f35f3a84e0e0d2a0fc83c2ffd97a15847e5e79"
 metafile = true
@@ -392,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "b572308fa8043cc9990377eb8f6e2cfffb14be479608831f777cca9b67cd469e"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
 metafile = true
 
 [[files]]
