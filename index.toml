@@ -80,6 +80,11 @@ hash = "a2115824c50f99bcfcd02bb38db055537505e361069786e88a8936f0df4c5665"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "6ebd1ccf4ac932fc0f860b787ed1b97bb1bf38abc56d5e96cd94a787fbe22127"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
 
 [[files]]
@@ -310,6 +320,11 @@ hash = "babf1b1c64742ec0202fead080dfe6cdd2315a1141369877d79d5669339259dd"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
@@ -392,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "936f9798833156f12452bbb94df69941e2a2502fadfab4615f9b65b300b7985b"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
