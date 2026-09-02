@@ -440,9 +440,9 @@ hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
 metafile = true
 
 [[files]]
-file = "world/datapacks/hex-compat/data/hexcasting/switchy_components/pigment.json"
-hash = "220539c16df5321709140b83a63f5f8bba3d48537b6267797443157b8665934c"
+file = "world/datapacks/server/data/hexal/tags/iota_type/illegal_interworld.json"
+hash = "92b122a702df748416ca73a327b0cf895c237eef780ae396bb28619bf917d5dc"
 
 [[files]]
-file = "world/datapacks/hex-compat/pack.mcmeta"
-hash = "7bfee0009653d72f82e835e796e8e88f05784f38d4ef1003f3f23dbd18f95d2c"
+file = "world/datapacks/server/pack.mcmeta"
+hash = "cf98854400f823af6b2d1120172e4c4d3b960aafd91f6a12ebfb1aaf3a6bddbf"
