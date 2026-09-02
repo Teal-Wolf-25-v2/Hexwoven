@@ -65,6 +65,26 @@ file = "kubejs/server_scripts/hexcasting_phial.js"
 hash = "004f7ce9d0c4db0943ed4f275fc19cb78b37e5dc7b0dc110b851aa8dc607ca00"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "448122a913a9588559026b8974a9d1cf75996fbf637c716ab2535b8ccf461cb5"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "a2115824c50f99bcfcd02bb38db055537505e361069786e88a8936f0df4c5665"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "dac40b3c5cbb25ff9645804ac2b430670663d411509b8a4b0ca980e7e243755e"
 metafile = true
@@ -75,6 +95,11 @@ hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "02e4f1342a25791634a39ae7d56c81e807ff09c4c75db4af963678ac91a69a14"
 metafile = true
@@ -82,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "8e10e164346d332374a3f590ab882911e564ec23abaa9d23fcce11df6f882df5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
@@ -97,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "e2d45e0b5c2f9717de6034dff19ae11e59829b6cac3deafb8caf862dfa1e5685"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
 
 [[files]]
@@ -120,8 +155,18 @@ hash = "25ccb0dd97330715a5a5dd4ab2a9820811085116ee7b6fa8d38e6b0d453321eb"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e9b48a41987c854dee8a24f4797d7619a6e8ca10a883ad2067f56e11bce6ede4"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "e8b80e4eb7ccd9817a18e17fad1187cf27ab8f68a20aa73338be243785add2bc"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
@@ -142,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "8317a5b3efefd79c435b77d786f2cfdfcadb91f3d423dd99a897d3f3e5ead799"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "e8bb6d78fd50d9702205a76b108e1e82d23dbcf69b27e50462c8148acae4bd05"
 metafile = true
 
 [[files]]
@@ -195,6 +245,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "10d5bc6c3a84329d3db6d491db10f979b880588bd90101c26cfc588ae3ceb5f2"
+metafile = true
+
+[[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
@@ -230,8 +285,18 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/phonos.pw.toml"
+hash = "b634f93cda998934548f103bfe8bfad8ad9c8b5e1f66ea4f60951dd349cccfd3"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "3c5a5fe2267f93188d7e41f7a06ea09a64b40224b90f601e42cf666c16f12268"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
@@ -242,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/raknetify.pw.toml"
 hash = "babf1b1c64742ec0202fead080dfe6cdd2315a1141369877d79d5669339259dd"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
 
 [[files]]
@@ -270,6 +340,16 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
@@ -287,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "ccb5c4ca45eef6e5242c71d67c2d24b18c45076aa8322a4d154d22c1583a9c15"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
 metafile = true
 
 [[files]]
