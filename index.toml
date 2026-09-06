@@ -95,6 +95,16 @@ hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "591f60984051ca4e54885225cc4746d50d07544f7f95da2d11f3d8c74bc593ca"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "dac40b3c5cbb25ff9645804ac2b430670663d411509b8a4b0ca980e7e243755e"
 metafile = true
@@ -137,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
 hash = "7d49d170b4d305bbe87e77a59ea8e9a16d9041ab34595f8977563271f9bb8c71"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
 metafile = true
 
 [[files]]
@@ -195,13 +210,73 @@ hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
+metafile = true
+
+[[files]]
 file = "mods/glowcase.pw.toml"
 hash = "43dce3aef37c6609c9da0b70acf4280e243204bdcf66151dc53186fd008e7b0c"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "7d8bbebc701fc5ae2bf834b98ffd5709c773c27a06400c114a91ce5c4313ed69"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
+
+[[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "006076b33c06c9283dc8a20971a25308ea8f2e60a5702c40fa96a8eeed1722af"
+metafile = true
+
+[[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "a7405f33ae83afcdcaa997eb9f164718692a54604f8d7be578d39180ddd25bf8"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "de8f67ab8f2b83867d164fe2d4d6c5ecd373f9167a527f9cd6690408fbec056e"
+metafile = true
+
+[[files]]
+file = "mods/hexic.pw.toml"
+hash = "58bb0050d374f3dd1b3f65f4dbf415b1616b58cc1d38111fcfc007e98557daf7"
+metafile = true
+
+[[files]]
+file = "mods/hexintent.pw.toml"
+hash = "6032616985845c09c0c6afc263a5d9b4fd906fc526c4016fff37d00be7a61206"
+metafile = true
+
+[[files]]
+file = "mods/hexodus.pw.toml"
+hash = "62b3bb27578fafd17c6dba935eac153a17f9d267f7d7be718ed8844e9fb411ac"
+metafile = true
+
+[[files]]
+file = "mods/hexpigmentplus.pw.toml"
+hash = "a1c7b5707e5faf360a39c96d2dc436680b6e114f907c5fca5cf1d32db4ff7867"
+metafile = true
+
+[[files]]
+file = "mods/hexpose.pw.toml"
+hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
+metafile = true
+
+[[files]]
+file = "mods/hextra-patterns.pw.toml"
+hash = "0cadba59d50e3f7bdb754b34276dcd7118a450dfe64943cee182b2d6387c5436"
 metafile = true
 
 [[files]]
@@ -225,6 +300,16 @@ hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
 
 [[files]]
+file = "mods/iotaworks.pw.toml"
+hash = "566d04f1d8781e48512960b85e69d359b43342d6d6e5a8dc778a604e47a46142"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
@@ -235,8 +320,18 @@ hash = "5d5118126ec1e5f31f61372e87b3e4f9e4aaa485c95f908c276fc3faecea4fe7"
 metafile = true
 
 [[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
+metafile = true
+
+[[files]]
 file = "mods/kilt.pw.toml"
 hash = "a5c7c30785539dc3e0873a227e55ff332ed46f9c774e88648419c2716fe10ada"
+metafile = true
+
+[[files]]
+file = "mods/krysztal-language-scala.pw.toml"
+hash = "185e339ce8347a2d7856b27fb3abec8dd68f1a400a32b29d3bff54d6f0472fdc"
 metafile = true
 
 [[files]]
@@ -280,6 +375,11 @@ hash = "10d5bc6c3a84329d3db6d491db10f979b880588bd90101c26cfc588ae3ceb5f2"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "275952e00b13644a444c760d57291b09e5ab2d43eeda195ff4a977d0bf7995fc"
+metafile = true
+
+[[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
@@ -305,6 +405,11 @@ hash = "b087d57e8f876873a4eaeacdb80166c03e5158fa95cb15ffe6aa9571b76bf9d2"
 metafile = true
 
 [[files]]
+file = "mods/patternmasters-fix.pw.toml"
+hash = "b9588119c8319558c35082af1eb7b0381d6ee6c3e6d1dbcad42f1f9d2cce10d3"
+metafile = true
+
+[[files]]
 file = "mods/paucal.pw.toml"
 hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
 metafile = true
@@ -312,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/phlib.pw.toml"
+hash = "933db7120b001ffa711c2380a6a768d4b1928fdc86fbb1d7de2e54e1ed26ac13"
 metafile = true
 
 [[files]]
@@ -372,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0be55b277946be6b178bbe559bed59ffa9689f0e36cec3a317b87f5a376bb72f"
+metafile = true
+
+[[files]]
+file = "mods/slate-works.pw.toml"
+hash = "a79556aaf013349c988f3db3c4afe5a5cd4e60debfedf90dddaa6cf9a7bf53b9"
 metafile = true
 
 [[files]]
@@ -442,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yaha.pw.toml"
+hash = "551a3e84b96de989d70c86e2c8b20986fd009dc690a83a5882dab206da97e0df"
 metafile = true
 
 [[files]]

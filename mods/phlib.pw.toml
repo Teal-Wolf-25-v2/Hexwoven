@@ -1,0 +1,13 @@
+name = "PhLib"
+filename = "phlib-0.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1KUg8nl/versions/TbDrX89n/phlib-0.1.4.jar"
+hash-format = "sha512"
+hash = "08a42f57b0a95afafb014b4dea4371b7b8dab314b038574094d37cdbc7049b7fd95b2486b7e0a8bfc427fbe41e3cc5c0d3cc513073cb6396ca68e194735f4c31"
+
+[update]
+[update.modrinth]
+mod-id = "n1KUg8nl"
+version = "TbDrX89n"
