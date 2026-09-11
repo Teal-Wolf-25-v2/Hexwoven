@@ -95,6 +95,11 @@ hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
 
 [[files]]
+file = "mods/caduceus.pw.toml"
+hash = "e08e8dacfe59a4a4b3a8e6a19e4a3f74ecfe1b7a3000101ad6e55f3114fb55e3"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "37452adad873d86343d8569ac9c628eaac4bcf2f1f98487d03f40126bbe80e48"
 metafile = true
 
 [[files]]
@@ -178,6 +188,11 @@ hash = "63966d5a31c8d1b2f5d23706c55bccd574d4d94ba2527406772b6c6c0963d9db"
 metafile = true
 
 [[files]]
+file = "mods/ephemera.pw.toml"
+hash = "442d01ebee947c4383de13fc207425cc73dabbb0dadc6f0e72d232b6ebb7032b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
@@ -233,8 +248,18 @@ hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
 
 [[files]]
+file = "mods/heartxxy.pw.toml"
+hash = "363a1ee329e3e2c3be3a1bf38e122b3132d57977b5de9b5b7b22e2390d664c1b"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "7d8bbebc701fc5ae2bf834b98ffd5709c773c27a06400c114a91ce5c4313ed69"
+metafile = true
+
+[[files]]
+file = "mods/hex-machina.pw.toml"
+hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
 
 [[files]]
@@ -286,13 +311,38 @@ hash = "a1c7b5707e5faf360a39c96d2dc436680b6e114f907c5fca5cf1d32db4ff7867"
 metafile = true
 
 [[files]]
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
+
+[[files]]
 file = "mods/hexpose.pw.toml"
 hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
 metafile = true
 
 [[files]]
+file = "mods/hexstruction.pw.toml"
+hash = "e3ce9e4e1d4dbf12ae095dfe0d35061541c8b0f0932c54b0e400b0285ac35ddf"
+metafile = true
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
+metafile = true
+
+[[files]]
+file = "mods/hexthings.pw.toml"
+hash = "4bd78f7993a771298b8b2eeaaeeb51801870eaf391b65723ae4109bb78f2fa2f"
+metafile = true
+
+[[files]]
 file = "mods/hextra-patterns.pw.toml"
 hash = "0cadba59d50e3f7bdb754b34276dcd7118a450dfe64943cee182b2d6387c5436"
+metafile = true
+
+[[files]]
+file = "mods/hierophantics.pw.toml"
+hash = "6d764ab0ade80e93bf4cb37e19ce71b3d2847c3fe8222a494d02f5b663cf7ed7"
 metafile = true
 
 [[files]]
@@ -396,6 +446,11 @@ hash = "275952e00b13644a444c760d57291b09e5ab2d43eeda195ff4a977d0bf7995fc"
 metafile = true
 
 [[files]]
+file = "mods/moves-the-mind.pw.toml"
+hash = "73009ade6fad32d678f08e91853526ca7e73a77874152164dadce86121f8027d"
+metafile = true
+
+[[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
 metafile = true
@@ -441,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/phlexiful.pw.toml"
+hash = "6c12c8bf3a6b4ce0eff470be2941afead60953d23a09152d0e0c54c1bad4ed1f"
 metafile = true
 
 [[files]]
