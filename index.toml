@@ -105,6 +105,11 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "591f60984051ca4e54885225cc4746d50d07544f7f95da2d11f3d8c74bc593ca"
 metafile = true
@@ -156,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-healing.pw.toml"
 hash = "ebdae4912ef604b43ade3d60b67726a356e348a68377367a5641e250811d00bf"
+metafile = true
+
+[[files]]
+file = "mods/curios-media-holder.pw.toml"
+hash = "c9e3c6cb57edae1732fa7de736c08034bf6fd47d765c12ce31047115e2b21393"
 metafile = true
 
 [[files]]
