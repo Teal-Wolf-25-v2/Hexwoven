@@ -430,11 +430,6 @@ hash = "79ae66c415dcced523a4650926b66f8893777585eef56cc10c2dfaeec8a46835"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks.pw.toml"
-hash = "b30681a5af62f0269be8ca34d7ee9ac0cc8bf958d9da5297ff745c6774a843e4"
-metafile = true
-
-[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "431a8fcb7b1ed7100f25c5967c729913109c4c1705cab6614bc8b8b1daabc028"
 metafile = true
