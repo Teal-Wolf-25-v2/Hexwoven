@@ -356,8 +356,8 @@ hash = "0cadba59d50e3f7bdb754b34276dcd7118a450dfe64943cee182b2d6387c5436"
 metafile = true
 
 [[files]]
-file = "mods/hexwright-1.0.3.jar"
-hash = "92eaf8d441856c259a786b6450965a1b076a4274bd93d56c07d3d10c28ec20f7"
+file = "mods/hexwright-1.0.4.jar"
+hash = "218c084f4e648cb265d29cbc84568a477ab092298a9936b1749024e283248fdb"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
@@ -535,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/phonos.pw.toml"
 hash = "b634f93cda998934548f103bfe8bfad8ad9c8b5e1f66ea4f60951dd349cccfd3"
+metafile = true
+
+[[files]]
+file = "mods/photon-editor.pw.toml"
+hash = "5ec47a95b46032b195325dc10ec7536e1f3c419980d5de8654a11dea22a09f3a"
 metafile = true
 
 [[files]]
