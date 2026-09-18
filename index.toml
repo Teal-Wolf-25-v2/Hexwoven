@@ -302,9 +302,8 @@ hash = "de8f67ab8f2b83867d164fe2d4d6c5ecd373f9167a527f9cd6690408fbec056e"
 metafile = true
 
 [[files]]
-file = "mods/hexic.pw.toml"
-hash = "58bb0050d374f3dd1b3f65f4dbf415b1616b58cc1d38111fcfc007e98557daf7"
-metafile = true
+file = "mods/hexic-2.2.0+d07f18d.jar"
+hash = "5664af8c5f78cf36354a6673d7e645670267d5478cbf74f7355dcf415efe5600"
 
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
@@ -385,14 +384,17 @@ hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
 
 [[files]]
-file = "mods/iotaworks.pw.toml"
-hash = "566d04f1d8781e48512960b85e69d359b43342d6d6e5a8dc778a604e47a46142"
-metafile = true
+file = "mods/iotaworks-0.1.5+5c390ce.jar"
+hash = "723a8f1a6554f4944a2cc04c65ec50b1fb72cbd9b993a6c479ec7678133a1806"
 
 [[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
+
+[[files]]
+file = "mods/ioticiotas-0.1.0+aa340a6.jar"
+hash = "b19fe798f25a2481b4a4ab23129b3cfdd4556565edb866047ebaf800a256d9ca"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -528,9 +530,8 @@ hash = "6c12c8bf3a6b4ce0eff470be2941afead60953d23a09152d0e0c54c1bad4ed1f"
 metafile = true
 
 [[files]]
-file = "mods/phlib.pw.toml"
-hash = "f4620760fea6dfff2552a007e1865614957c9267aee82f63cd383f8e572e7aaa"
-metafile = true
+file = "mods/phlib-0.2.0+5ac6b0f.jar"
+hash = "edf0d4ceef05ef570c5ad98f301cb5ac4ce0a960a5cb66c667284577f0e21b3e"
 
 [[files]]
 file = "mods/phonos.pw.toml"
