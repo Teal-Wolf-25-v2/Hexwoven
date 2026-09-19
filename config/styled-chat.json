@@ -59,7 +59,8 @@
       "dark_gray": true,
       "spoiler": true,
       "strikethrough": true,
-      "gradient": true
+      "gradient": true,
+      "color": true
     },
     "emoticons": {
       "$emojibase:builtin:joypixels": "${emoji}",

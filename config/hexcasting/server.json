@@ -4,7 +4,7 @@
   "maxSpellCircleLength": 50000,
   "actionDenyList": ["hexflow:for_range/floodfill","hexflow:for_range/floodfill/pure","oneironaut:circle"],
   "circleActionDenyList": [],
-  "greaterTeleportSplatsItems": false,
+  "greaterTeleportSplatsItems": true,
   "villagersOffendedByMindMurder": true,
   "doesTrueNameHaveAmbit": true,
   "tpDimDenylist": [
