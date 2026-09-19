@@ -18,15 +18,15 @@ hash = "a22705566a5dcdb20e9451ac0daacc6014640a2852b79a86797d53a81a8d7c63"
 
 [[files]]
 file = "config/fabrictailor.json"
-hash = "5d86b7a8e8dc187300c0a8dd5c40e5d8a64c2a059b7fe419d8eb808a1afa4e16"
+hash = "96e0010ad6115a96387d73c67feeba46658244aeaadf0799de25bfd41ad119ec"
 
 [[files]]
 file = "config/hexcassettes.json"
-hash = "50f33323a23f849ae5398a9ec06671ab16d5d52b6ab5ab04aada9cb173e94bb0"
+hash = "5da9f416c24134aeed1828db183a12ff8fbf965a0e05a957cc22b687f0b11369"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "36ca658d73b268a9a1febfeb7148b6845f9c91b54061a24e978c6d5c85c3c32c"
+hash = "73fc2ca8054941d6377792025441c0394284f9070abbdd1297485303433991de"
 
 [[files]]
 file = "config/hexic.properties"
@@ -35,10 +35,6 @@ hash = "36230b61129a738fa3815f6655d617258ef9fc4b27f0e469312417c2aab3651a"
 [[files]]
 file = "config/immersive_melodies.json"
 hash = "4438b404d1b94a8b748357a077bbd8c209053254549dcc0f4d4e059e95a1971f"
-
-[[files]]
-file = "config/remapped_patterns.lst"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/serverpause-common.toml"
@@ -54,7 +50,7 @@ hash = "b648456439d4f06d3d587203dbcb2b984c3de28725958bc774b1384964bb3fdf"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "8d08c93f8bf5957c1ead92b980459f589f5d1caf27db1a908bf95fbe8ddc15eb"
+hash = "246cd52e2468d7053c02dc612c092c2b14e492ce263c650da2f911efc2612529"
 
 [[files]]
 file = "config/styled-nicknames.json"
