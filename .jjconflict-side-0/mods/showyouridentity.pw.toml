@@ -1,0 +1,13 @@
+name = "Show Your Identity"
+filename = "showyouridentity-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IXLCwOQd/versions/HzknI1ZH/showyouridentity-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "3ad548c60c318438aa3146195217676fb5061102cbb167ad3b4cd70692301b897b4aeaa2608c23686a2c5758bec6fc93679eb6abb197c83ff6558662ce7b81ab"
+
+[update]
+[update.modrinth]
+mod-id = "IXLCwOQd"
+version = "HzknI1ZH"
