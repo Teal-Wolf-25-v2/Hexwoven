@@ -355,8 +355,8 @@ hash = "0cadba59d50e3f7bdb754b34276dcd7118a450dfe64943cee182b2d6387c5436"
 metafile = true
 
 [[files]]
-file = "mods/hexwright-1.0.4.jar"
-hash = "218c084f4e648cb265d29cbc84568a477ab092298a9936b1749024e283248fdb"
+file = "mods/hexwright-1.0.5.jar"
+hash = "773178122ce6e8715c6431cbf1aa1cfa3c825f370fe48309c6c64b68d8f6fb77"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
@@ -585,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/sewn-hexes.pw.toml"
+hash = "5ce0c6a49dce3ba7e735a9eb95ca24c437ec7ec724cf0f84647f3af947bd289a"
 metafile = true
 
 [[files]]
