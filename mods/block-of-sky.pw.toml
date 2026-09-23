@@ -1,0 +1,13 @@
+name = "Block of Sky"
+filename = "blockofsky-fabric-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GdhF8pws/versions/ubDOwoBC/blockofsky-fabric-1.20.1-0.3.0.jar"
+hash-format = "sha512"
+hash = "4bba801bdec623a1bf7d9c1c6aad83a52ff626481db4ac8e09ec9dafdcc421c50e64eb37a08fa75079a53261c1aaefc8000a4f15578003c746565ebc7aed0d7b"
+
+[update]
+[update.modrinth]
+mod-id = "GdhF8pws"
+version = "ubDOwoBC"
