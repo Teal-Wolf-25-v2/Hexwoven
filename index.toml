@@ -95,11 +95,6 @@ hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
 
 [[files]]
-file = "mods/block-of-sky.pw.toml"
-hash = "6c6b87109fae5af99d4b38c8179afb96ec8f66d0e9be88883109cc332c16f87f"
-metafile = true
-
-[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "e08e8dacfe59a4a4b3a8e6a19e4a3f74ecfe1b7a3000101ad6e55f3114fb55e3"
 metafile = true
@@ -675,6 +670,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/void-cubes.pw.toml"
+hash = "eae76f914934441a02ae33e131253c02d35a32165cf5100107e310af5ee52eab"
 metafile = true
 
 [[files]]
