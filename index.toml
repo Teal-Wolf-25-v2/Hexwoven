@@ -569,6 +569,11 @@ hash = "babf1b1c64742ec0202fead080dfe6cdd2315a1141369877d79d5669339259dd"
 metafile = true
 
 [[files]]
+file = "mods/respect-world-spawn.pw.toml"
+hash = "545598fb367630dcc4b0a1ade6977ac331f462a8e9d5abfb71ab7be5b9c6ba2a"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Respect World Spawn"
+filename = "respectworldspawn-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vbCJdaI1/versions/j0k30Wm5/respectworldspawn-1.0.0.jar"
+hash-format = "sha512"
+hash = "7543260e9c5e8001c8c7dafc1d9f3a67522e2ccc96b5a8f0cff675e7039c26f1ca23808442f241ac267cdc932f25332d0a31854579b85a1541e7851f65feee9d"
+
+[update]
+[update.modrinth]
+mod-id = "vbCJdaI1"
+version = "j0k30Wm5"
