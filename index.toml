@@ -355,8 +355,8 @@ hash = "0cadba59d50e3f7bdb754b34276dcd7118a450dfe64943cee182b2d6387c5436"
 metafile = true
 
 [[files]]
-file = "mods/hexwright-1.0.6.jar"
-hash = "0ed72977550a2d487485e6844654a1b09ad04b87b623e8424d2b4c4136c9da14"
+file = "mods/hexwright-1.0.7.jar"
+hash = "336218e8ec4390975b5e015a9231b8ae94fa76a47f248faf9f6d576dd7387042"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
