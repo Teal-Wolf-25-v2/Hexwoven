@@ -243,6 +243,11 @@ hash = "6ebd1ccf4ac932fc0f860b787ed1b97bb1bf38abc56d5e96cd94a787fbe22127"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "3596b8f358215c756a84c01a0ee87f99354f0a0f7143691f36ab0dd9076539fb"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "a2aea7797aef7ccd124a6674f2e755dd1fa63fe33717813c3bd1ba4d1e2dbb34"
 metafile = true
@@ -465,6 +470,10 @@ metafile = true
 file = "mods/mclogs.pw.toml"
 hash = "675d785982758d81373900f5a0b1e9779dd53f369ec3bf06464019a73e6059df"
 metafile = true
+
+[[files]]
+file = "mods/mighty_mail-fabric-1.20.1-1.1.4.jar"
+hash = "6db5f9b43247e384b7f176f2e87c47cbbe0bd7cf5a3297c5f3355daff8f331b7"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
