@@ -95,6 +95,11 @@ hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
 
 [[files]]
+file = "mods/bulletin-board.pw.toml"
+hash = "b2bf37e8ccad73f3fd1088dcb79ad08cfdd542575374d810d664541624a85598"
+metafile = true
+
+[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "e08e8dacfe59a4a4b3a8e6a19e4a3f74ecfe1b7a3000101ad6e55f3114fb55e3"
 metafile = true
@@ -640,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/spuds-shops.pw.toml"
+hash = "ced6fc15e8e1db49a6d6dce2c8d1341eaa547cf6d60216e32744eb03fab84182"
 metafile = true
 
 [[files]]
