@@ -91,7 +91,7 @@
         "type": "operator",
         "operator": 2
       },
-      "display_name": "<dark_gray>[</dark_gray><c:#007f7f>Admin</c><dark_gray>]</dark_gray> ${default}",
+      "display_name": "<dark_gray>[</dark_gray><c:#007f7f>Weaver</c><dark_gray>]</dark_gray> ${default}",
       "message_formats": {
         "chat": "${player} <c:#007f7f>»</c> <#94ffff>${message}"
       },
