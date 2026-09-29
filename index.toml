@@ -80,6 +80,11 @@ hash = "a2115824c50f99bcfcd02bb38db055537505e361069786e88a8936f0df4c5665"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -412,6 +417,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "4da3ad4943ca6cb4534f85bd75211de869e0b77a71edc8bd774470849a91b7fa"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "49d9d80434667f66e2db2f78b418278338d1a1c68d9b630f7ec687ae8535545c"
 metafile = true
@@ -488,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "275952e00b13644a444c760d57291b09e5ab2d43eeda195ff4a977d0bf7995fc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
@@ -719,6 +734,11 @@ metafile = true
 [[files]]
 file = "mods/yaha.pw.toml"
 hash = "551a3e84b96de989d70c86e2c8b20986fd009dc690a83a5882dab206da97e0df"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
