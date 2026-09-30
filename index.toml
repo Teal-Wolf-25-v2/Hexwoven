@@ -95,6 +95,11 @@ hash = "83f7397ee4fdddb352f166d0523d0b728d9ca6de66015c48ad2e85eb863f8c90"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
