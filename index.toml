@@ -65,6 +65,10 @@ file = "kubejs/server_scripts/hexcasting_phial.js"
 hash = "004f7ce9d0c4db0943ed4f275fc19cb78b37e5dc7b0dc110b851aa8dc607ca00"
 
 [[files]]
+file = "kubejs/server_scripts/hexic_devdocs.js"
+hash = "c1cc51ba2981d40c3c21020e596652390642cf6793ba69808d4e0e84a4b20489"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "448122a913a9588559026b8974a9d1cf75996fbf637c716ab2535b8ccf461cb5"
 metafile = true
@@ -322,8 +326,8 @@ hash = "de8f67ab8f2b83867d164fe2d4d6c5ecd373f9167a527f9cd6690408fbec056e"
 metafile = true
 
 [[files]]
-file = "mods/hexic-2.2.0+675c09c.jar"
-hash = "56ac8a7463fb8dba31ebe82a5ca6c76cbcade4d0639bd316472144b3a8f2875b"
+file = "mods/hexic-2.2.0+72b8f0b.jar"
+hash = "7aa016686ba4bfc7b86efbeb23a43cfd6a207a5b03281c801765b6816106e04d"
 
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
