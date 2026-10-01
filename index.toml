@@ -462,6 +462,11 @@ hash = "431a8fcb7b1ed7100f25c5967c729913109c4c1705cab6614bc8b8b1daabc028"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "d810698b07c1e9022538927fee0a0904fe9e5b2ba8a74ef8ae730e7b22412c34"
+metafile = true
+
+[[files]]
 file = "mods/lib39.pw.toml"
 hash = "7ab7689472b9f80e63ddb5aa71182bbd21bea2a2e7df71d6a688c223b494d003"
 metafile = true
