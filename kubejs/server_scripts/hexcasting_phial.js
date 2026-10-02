@@ -15,7 +15,7 @@ ServerEvents.recipes(event => {
 
     maxMedia = Math.round(maxMediaCurrent + recharge)
 		if (media > maxMedia) media = maxMedia
-		if (nbt == undefined && media > 128) return itemstack
+		if (nbt == undefined && media >= 128) return itemstack
 		nbt["hexcasting:media"] = media
 		nbt["hexcasting:start_media"] = maxMedia
 		return result.withNBT(nbt)
