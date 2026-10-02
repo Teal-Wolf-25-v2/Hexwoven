@@ -11,15 +11,16 @@ ServerEvents.recipes(event => {
 			recharge += (phial.nbt["hexcasting:start_media"] - phial.nbt["hexcasting:media"])*0.1
 			if (maxMediaCurrent < phial.nbt["hexcasting:start_media"]) maxMediaCurrent = phial.nbt["hexcasting:start_media"]
 			if (phial.nbt != null) nbt = phial.nbt
-    });
+		});
 
-    maxMedia = Math.round(maxMediaCurrent + recharge)
-    if (media > maxMedia) media = maxMedia
-    if (media >= 128) {
-      if (nbt == undefined) return itemstack
-		  nbt["hexcasting:media"] = media
-		  nbt["hexcasting:start_media"] = maxMedia
-		  return result.withNBT(nbt)
+		maxMedia = Math.round(maxMediaCurrent + recharge)
+		if (media > maxMedia) media = maxMedia
+		if (media >= 128) {
+			if (nbt == undefined)
+				return itemstack
+			nbt["hexcasting:media"] = media
+			nbt["hexcasting:start_media"] = maxMedia
+			return result.withNBT(nbt)
 		}
 	});
 });
