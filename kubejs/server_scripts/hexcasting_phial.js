@@ -14,10 +14,12 @@ ServerEvents.recipes(event => {
     });
 
     maxMedia = Math.round(maxMediaCurrent + recharge)
-		if (media > maxMedia) media = maxMedia
-		if (nbt == undefined && media >= 128) return itemstack
-		nbt["hexcasting:media"] = media
-		nbt["hexcasting:start_media"] = maxMedia
-		return result.withNBT(nbt)
+    if (media > maxMedia) media = maxMedia
+    if (media >= 128) {
+      if (nbt == undefined) return itemstack
+		  nbt["hexcasting:media"] = media
+		  nbt["hexcasting:start_media"] = maxMedia
+		  return result.withNBT(nbt)
+		}
 	});
 });
