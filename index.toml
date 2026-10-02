@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting-media-display.pw.toml"
-hash = "0f0df6e9e91959c0700020ea8fd6c4cb16c3e0c989b3f5458eacb9265903381b"
+hash = "926db27c50c9ed4cb3a0485943c56fc0946610862f1a3bdf3d6d97f1b1071dd7"
 metafile = true
 
 [[files]]
