@@ -1,0 +1,13 @@
+name = "Nex-tpa"
+filename = "Nexus_TPA_1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWMUMO3J/versions/7rZfsImW/Nexus_TPA_1.0.jar"
+hash-format = "sha512"
+hash = "a2726dfd3f7e9a3350da9f02a3d6d3786196e6383f86109c05f6f7e3dfa64f8faa260d2c390f6a466eef201a6dcabfaedbb2f2d46156e8b44085221066b26d8c"
+
+[update]
+[update.modrinth]
+mod-id = "iWMUMO3J"
+version = "7rZfsImW"

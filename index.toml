@@ -287,6 +287,11 @@ hash = "363a1ee329e3e2c3be3a1bf38e122b3132d57977b5de9b5b7b22e2390d664c1b"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "bdb152a76eaa12e77898923bcd648d1271eacb60617ec869c6c69708733b36be"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting-media-display.pw.toml"
 hash = "0f0df6e9e91959c0700020ea8fd6c4cb16c3e0c989b3f5458eacb9265903381b"
 metafile = true
@@ -299,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
+metafile = true
+
+[[files]]
+file = "mods/hex-wright.pw.toml"
+hash = "fefd59f29b8e311da7ff58d0515ec192b732e365ace009527a1e461af084aca8"
 metafile = true
 
 [[files]]
@@ -344,6 +354,11 @@ hash = "62b3bb27578fafd17c6dba935eac153a17f9d267f7d7be718ed8844e9fb411ac"
 metafile = true
 
 [[files]]
+file = "mods/hexpats.pw.toml"
+hash = "c5acbe6f95e405cddd63b02845b406b86e8e1b0af65e85986f6d8cddc837fa40"
+metafile = true
+
+[[files]]
 file = "mods/hexpigmentplus.pw.toml"
 hash = "a1c7b5707e5faf360a39c96d2dc436680b6e114f907c5fca5cf1d32db4ff7867"
 metafile = true
@@ -377,10 +392,6 @@ metafile = true
 file = "mods/hextra-patterns.pw.toml"
 hash = "0cadba59d50e3f7bdb754b34276dcd7118a450dfe64943cee182b2d6387c5436"
 metafile = true
-
-[[files]]
-file = "mods/hexwright-1.0.7.jar"
-hash = "336218e8ec4390975b5e015a9231b8ae94fa76a47f248faf9f6d576dd7387042"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
@@ -432,17 +443,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "49d9d80434667f66e2db2f78b418278338d1a1c68d9b630f7ec687ae8535545c"
+hash = "9fc40b0a633cd4f63c6cea749301cfcd4c1a9ea37b5170bf6727d246fc3e2b4d"
 metafile = true
 
 [[files]]
 file = "mods/jsonpatcher.pw.toml"
 hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
-metafile = true
-
-[[files]]
-file = "mods/kilt.pw.toml"
-hash = "a5c7c30785539dc3e0873a227e55ff332ed46f9c774e88648419c2716fe10ada"
 metafile = true
 
 [[files]]
@@ -462,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "431a8fcb7b1ed7100f25c5967c729913109c4c1705cab6614bc8b8b1daabc028"
+hash = "0c26002714a1a61824a817dac9b31d2d91a3c6d28bd940f06690d78a0d7ebb27"
 metafile = true
 
 [[files]]
@@ -527,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
+metafile = true
+
+[[files]]
+file = "mods/nex-tpa.pw.toml"
+hash = "e2a0ab897b29afa7d89490a58d3f2e9b54d48a3e43abb82ee4d472dfbaff6812"
 metafile = true
 
 [[files]]
@@ -657,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "93ae0b9eb663ff8fa3bcaf7d7635f6f199a3020744f7514044305a7dffa18561"
+hash = "ee81df4f93bccdba87d88395d9082cc8c3c11abd30924163efb99f520aa7a6dd"
 metafile = true
 
 [[files]]
@@ -716,11 +727,6 @@ hash = "b572308fa8043cc9990377eb8f6e2cfffb14be479608831f777cca9b67cd469e"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
@@ -747,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaha.pw.toml"
-hash = "551a3e84b96de989d70c86e2c8b20986fd009dc690a83a5882dab206da97e0df"
+hash = "938e8761dfad260dd681af524ab0e6cb6525b84821f9b9d57192fbee36d092d4"
 metafile = true
 
 [[files]]
@@ -787,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "2d56ff34cd1810acca8d9b1fe4190373b1ee002fba9675ebbc6e9eb618df30cf"
+hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
 metafile = true
 
 [[files]]
