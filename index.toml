@@ -62,7 +62,7 @@ hash = "5a3ffb92c398e9455bc186af378f8dd77de91fa6dd82464ff989bb343fdb7f13"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"
-hash = "e63b9d1acacedc90745d77172ca962824d8a2aa356706b8d254a8d20bcd0acd3"
+hash = "185be6b3fbcb7ce8260483fde42a71fddc48f163563cd8d7ea7e19872baf2ce4"
 
 [[files]]
 file = "kubejs/server_scripts/hexic_devdocs.js"
