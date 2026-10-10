@@ -1,6 +1,6 @@
 name = "Hexwoven"
 author = "Weavers of Hexes"
-version = "6.1.11"
+version = "6.1.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
