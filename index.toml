@@ -307,11 +307,6 @@ hash = "926db27c50c9ed4cb3a0485943c56fc0946610862f1a3bdf3d6d97f1b1071dd7"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "7d8bbebc701fc5ae2bf834b98ffd5709c773c27a06400c114a91ce5c4313ed69"
-metafile = true
-
-[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
@@ -329,6 +324,10 @@ metafile = true
 [[files]]
 file = "mods/hexcassettes-2.0.0-d8db411.jar"
 hash = "8c576f46cf2e8dbf7b61a1faacef7ca080130a6491a0508019ae1b8abe56a0f6"
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.4.jar"
+hash = "2e2cd9f905ba9a4a86d9437480b709a0a13a606568c6433bd0ad43726052c25f"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
