@@ -1,12 +1,12 @@
 name = "Hexwoven"
 author = "Weavers of Hexes"
-version = "6.3.0"
+version = "6.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19f6d420ef0f1f2afb967058ac95b32804585a7e9e464a4ae401132d70fb5341"
+hash = "065994186082fc270b2415f384e7d7386fc0c34b5fa9a949b43c65d90787a395"
 
 [versions]
 fabric = "0.19.5"

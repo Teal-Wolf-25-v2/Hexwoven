@@ -193,6 +193,11 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "fa9aad9f77898289751ea6ede8d3f8b9d439cba4c17d6445cf8c14fb5c27682e"
+metafile = true
+
+[[files]]
 file = "mods/creeper-healing.pw.toml"
 hash = "ebdae4912ef604b43ade3d60b67726a356e348a68377367a5641e250811d00bf"
 metafile = true
@@ -674,6 +679,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "338dffafc747ad0efe0b4d8c2e9c7898d4c251d71cab54f88758d53a9cf8dd22"
 metafile = true
 
 [[files]]
