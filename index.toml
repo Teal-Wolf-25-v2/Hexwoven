@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+hash = "7a4a0e8508fa73ef340ba339984e7dd21439b5278675a62e44614134a20cb86c"
 metafile = true
 
 [[files]]
@@ -149,6 +149,11 @@ hash = "37452adad873d86343d8569ac9c628eaac4bcf2f1f98487d03f40126bbe80e48"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -193,11 +198,6 @@ hash = "ebdae4912ef604b43ade3d60b67726a356e348a68377367a5641e250811d00bf"
 metafile = true
 
 [[files]]
-file = "mods/curios-media-holder.pw.toml"
-hash = "c9e3c6cb57edae1732fa7de736c08034bf6fd47d765c12ce31047115e2b21393"
-metafile = true
-
-[[files]]
 file = "mods/dimension-leak-fix.pw.toml"
 hash = "7d49d170b4d305bbe87e77a59ea8e9a16d9041ab34595f8977563271f9bb8c71"
 metafile = true
@@ -222,8 +222,23 @@ file = "mods/efhexs-1.0.0-20dbe0d.jar"
 hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "484792193eb71f6c5dcfac83cabdcc87972702659c31da8a8dfe819bd00c5826"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ee24d491b72287316c389f6e82b5551df00fc4afee02d22599320c818d0ac720"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "63966d5a31c8d1b2f5d23706c55bccd574d4d94ba2527406772b6c6c0963d9db"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
@@ -307,6 +322,11 @@ hash = "926db27c50c9ed4cb3a0485943c56fc0946610862f1a3bdf3d6d97f1b1071dd7"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "7d8bbebc701fc5ae2bf834b98ffd5709c773c27a06400c114a91ce5c4313ed69"
+metafile = true
+
+[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
@@ -326,17 +346,13 @@ file = "mods/hexcassettes-2.0.0-d8db411.jar"
 hash = "8c576f46cf2e8dbf7b61a1faacef7ca080130a6491a0508019ae1b8abe56a0f6"
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.4.jar"
-hash = "2e2cd9f905ba9a4a86d9437480b709a0a13a606568c6433bd0ad43726052c25f"
-
-[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "006076b33c06c9283dc8a20971a25308ea8f2e60a5702c40fa96a8eeed1722af"
 metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "a7405f33ae83afcdcaa997eb9f164718692a54604f8d7be578d39180ddd25bf8"
+hash = "3961d3fe90914a39a9093a605160594183f9fe64417992b9574cbfdc2769f740"
 metafile = true
 
 [[files]]
@@ -452,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "411e6d798d8e52e5c42e775daf6dd82bd61da78aced8c3c54a79a0112de1c051"
+hash = "1e4701cca170a460425c93996567c0a98192971299ef7c5a8704a63c32a0d63b"
 metafile = true
 
 [[files]]
@@ -473,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/lampblack.pw.toml"
 hash = "79ae66c415dcced523a4650926b66f8893777585eef56cc10c2dfaeec8a46835"
+metafile = true
+
+[[files]]
+file = "mods/lapisworks.pw.toml"
+hash = "fdd3c0d026ec52ea50fd3b27c96f14edb4e6836a2b6d1898e38240c2c70e3829"
 metafile = true
 
 [[files]]
@@ -516,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d3e470979675e64db913e1482d422ee0d70dbe7e378f86cbf1f30ad80ffb5207"
+hash = "505cc765872d0485d5e39ed2a7cedf3a62582a268cb120685067c2dbf96391c3"
 metafile = true
 
 [[files]]
@@ -661,6 +682,11 @@ hash = "5ce0c6a49dce3ba7e735a9eb95ca24c437ec7ec724cf0f84647f3af947bd289a"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "f29ba19cab72bdca9cbf01a557f5fb78513412094d4d4051295ab34ff1a86d9d"
+metafile = true
+
+[[files]]
 file = "mods/showyouridentity.pw.toml"
 hash = "089884b6aa137feeb5c3bf1777f35f3a84e0e0d2a0fc83c2ffd97a15847e5e79"
 metafile = true
@@ -717,12 +743,12 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "cb7985ee5c07798f29eb11f934f92504cfab3444bfbb4afe54c2fe5614839753"
+hash = "eb328d1334650dd7cff8c04a0a174f95926482fa9347795466d105a889d3f808"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
+hash = "ab4f9a533f36e85c91d4180f4f063f1fe7d42a90e32dcffca44b523e123284fb"
 metafile = true
 
 [[files]]
@@ -807,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
+hash = "6dad08af50b670e1c317c952104d504f3357eed21009623c4861de8b9ed8b36a"
 metafile = true
 
 [[files]]
