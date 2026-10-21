@@ -1,0 +1,21 @@
+{
+  "values": [
+    "caduceus:continuation/delimited",
+    "complexhex:bubble",
+    "ephemera:potion",
+    "hexal:gate",
+    "hexal:item",
+    "hexcasting:entity",
+    "hexcasting:continuation",
+    "hexcellular:property",
+    "hexportation:conduit",
+    "hexportation:storageview",
+    "hexpose:item_stack",
+    "hexstruction:structure",
+    "hierophantics:mind_reference",
+    "hierophantics:mishap_thrower",
+    "moreiotas:item_stack",
+    "oneironaut:dim",
+    "oneironaut:uuid"
+  ]
+}

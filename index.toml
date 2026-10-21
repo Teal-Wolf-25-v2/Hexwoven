@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-wright.pw.toml"
-hash = "18d528dd3dace83976c76530fcae5bd7802b5b0a963c13de336bac5c641c7628"
+hash = "8a92463e8ba3ba30733673c314afc922be95bfea82366e057bc36d7773908504"
 metafile = true
 
 [[files]]
