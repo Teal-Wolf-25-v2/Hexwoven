@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "fa9aad9f77898289751ea6ede8d3f8b9d439cba4c17d6445cf8c14fb5c27682e"
+hash = "d2228deae2b2ceeda9ec8d84e843e9260f030982862b0fc156d1fbaa670fb128"
 metafile = true
 
 [[files]]
