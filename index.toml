@@ -366,8 +366,8 @@ hash = "de8f67ab8f2b83867d164fe2d4d6c5ecd373f9167a527f9cd6690408fbec056e"
 metafile = true
 
 [[files]]
-file = "mods/hexic-2.2.0+6787176.jar"
-hash = "4f262812e1861e927a7c90ef6d557055c1a3a6f6c6634f9661e5a51a63e097dd"
+file = "mods/hexic-2.2.0+b75d0eb.jar"
+hash = "32c07d24b7d91fcf95478727763504681410317e05d49cfaa5b807b350adc0d2"
 
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
