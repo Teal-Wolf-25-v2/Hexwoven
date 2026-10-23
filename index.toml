@@ -682,11 +682,6 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/server-replay.pw.toml"
-hash = "338dffafc747ad0efe0b4d8c2e9c7898d4c251d71cab54f88758d53a9cf8dd22"
-metafile = true
-
-[[files]]
 file = "mods/sewn-hexes.pw.toml"
 hash = "5ce0c6a49dce3ba7e735a9eb95ca24c437ec7ec724cf0f84647f3af947bd289a"
 metafile = true
