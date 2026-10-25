@@ -1,13 +1,13 @@
 name = "HexDebug"
-filename = "hexdebug-fabric-0.9.0+1.20.1.jar"
+filename = "hexdebug-fabric-0.9.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/A2pscGC5/versions/n6XoNKik/hexdebug-fabric-0.9.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/A2pscGC5/versions/641HJOJm/hexdebug-fabric-0.9.1%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "9ef8f5d5ee4e62ab63010aeb4ed52c375a135b0e2874f4a9c010794c79918f86a6646958167827856f2a33f76d67b60c91b8ca55d00b9420e0dfa40bea7ab70a"
+hash = "998d2e7f831d9cb45d0831d976c259f29b3f1ae7bc6d2d2413f40a7591b10627f7b2b053621ac8e13d9feccea9ef2f7ddac7457699f14849bdf9e42f4a21d13e"
 
 [update]
 [update.modrinth]
 mod-id = "A2pscGC5"
-version = "n6XoNKik"
+version = "641HJOJm"

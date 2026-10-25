@@ -218,6 +218,11 @@ hash = "4602c5958f397286ea0e385d3e0ff06a21f2899cacf1c1dd12a673b43e434752"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "5525baa8ad75041025127697dfb53232afee87c23ed56517f10577d3eaa04ec2"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "de8f67ab8f2b83867d164fe2d4d6c5ecd373f9167a527f9cd6690408fbec056e"
+hash = "0a702edd011fcbbcba7601844056a110e291d298cd514a18668f0517b97d7cf3"
 metafile = true
 
 [[files]]
@@ -473,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1e4701cca170a460425c93996567c0a98192971299ef7c5a8704a63c32a0d63b"
+hash = "ae2ce9a414f3d260dffcc66665826121071544263b8acdeb10da26bf3f4727b6"
 metafile = true
 
 [[files]]
@@ -514,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/lib39.pw.toml"
 hash = "7ab7689472b9f80e63ddb5aa71182bbd21bea2a2e7df71d6a688c223b494d003"
+metafile = true
+
+[[files]]
+file = "mods/load-my-chunks.pw.toml"
+hash = "52287cfd0f43b574e74be5fa948f2bf8a116806836d4570482855373850604f8"
 metafile = true
 
 [[files]]
@@ -648,6 +658,11 @@ hash = "adcbc2ed7ace252fabce9a1a6320b938d04b62e37cd21d250f0851fd3a116d5d"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "79830366f72529a098f4df71537fbb537602d54260c6cae37032b45b3d3e3f35"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "babf1b1c64742ec0202fead080dfe6cdd2315a1141369877d79d5669339259dd"
 metafile = true
@@ -703,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ee81df4f93bccdba87d88395d9082cc8c3c11abd30924163efb99f520aa7a6dd"
+hash = "b8681acf5fdcf1fff516bea257495167e2449ab1652d7c7a40443541b31cf22b"
 metafile = true
 
 [[files]]
