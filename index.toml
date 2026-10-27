@@ -522,11 +522,6 @@ hash = "7ab7689472b9f80e63ddb5aa71182bbd21bea2a2e7df71d6a688c223b494d003"
 metafile = true
 
 [[files]]
-file = "mods/load-my-chunks.pw.toml"
-hash = "52287cfd0f43b574e74be5fa948f2bf8a116806836d4570482855373850604f8"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
