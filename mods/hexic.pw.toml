@@ -1,0 +1,8 @@
+name = "Hexic"
+filename = "hexic-2.2.0+3624547.jar"
+side = "both"
+
+[download]
+url = "https://repo.pool.net.eu.org/pub/org/eu/net/pool/hexic/2.2.0+3624547/hexic-2.2.0+3624547.jar"
+hash-format = "sha256"
+hash = "7c41db767295e0f5736167c99d869bba13e1aabd52739dcbe08542303c17f213"
