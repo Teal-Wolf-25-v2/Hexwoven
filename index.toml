@@ -327,6 +327,10 @@ hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
 
 [[files]]
+file = "mods/greatspellfix.toml"
+hash = "6b04ca16a3fbf79977bcdbdad416d20b3ede05ae86d3aa785fe42b5c7fcf8ebf"
+
+[[files]]
 file = "mods/heartxxy.pw.toml"
 hash = "363a1ee329e3e2c3be3a1bf38e122b3132d57977b5de9b5b7b22e2390d664c1b"
 metafile = true
