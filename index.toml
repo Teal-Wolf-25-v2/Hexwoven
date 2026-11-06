@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "591f60984051ca4e54885225cc4746d50d07544f7f95da2d11f3d8c74bc593ca"
+hash = "10e862db0a0d208c88e3bdcb670750982280ed417b2546269c26e80768759ac1"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
-hash = "7d49d170b4d305bbe87e77a59ea8e9a16d9041ab34595f8977563271f9bb8c71"
+hash = "3b4cc2e8b7968e9a40e0b12ebd0436156cf65fa231fbff6ddb8955ae311757bd"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "484792193eb71f6c5dcfac83cabdcc87972702659c31da8a8dfe819bd00c5826"
+hash = "33caef994b848b7ac233a7b9260f9907b5bbc54eebb64a34ae4aad73f8bf4c3b"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "b4ad30c41a2742b254e5cc285ad7f718c2bea5f397df251d453b383346003259"
+hash = "83f21e62119cc5c4ceb9fec6f2df70dd7800ea34bb29c187c4843bba25d84b32"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ae2ce9a414f3d260dffcc66665826121071544263b8acdeb10da26bf3f4727b6"
+hash = "02e405e48eb88d738c35f23bda13c81424fb070e272981562e4b5796abc45979"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "505cc765872d0485d5e39ed2a7cedf3a62582a268cb120685067c2dbf96391c3"
+hash = "f2f55cdf91f9eeb4e0f0a6e7510d26ca6601a21071d4ea605f4f506964b3c6b2"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b8681acf5fdcf1fff516bea257495167e2449ab1652d7c7a40443541b31cf22b"
+hash = "e9eff21bd99eeb4c4b92bf27d21390c052d48477fdca3853ae08b800882830d4"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "6dad08af50b670e1c317c952104d504f3357eed21009623c4861de8b9ed8b36a"
+hash = "085114584baeb503e8e92c8f1c440a3aa4414a85093043bbde627d268766d482"
 metafile = true
 
 [[files]]

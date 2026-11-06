@@ -1,13 +1,13 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.20.1-2.6.26.jar"
+filename = "voicechat-fabric-1.20.1-2.6.27.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/moiHjUsv/voicechat-fabric-1.20.1-2.6.26.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/1K7XoPeL/voicechat-fabric-1.20.1-2.6.27.jar"
 hash-format = "sha512"
-hash = "e373065046714c723223590235ba5c995ec9caba500c36348bb7d8fc6a67688a21319a44dfd0c6cc2f437e4ecc65b171b5b30bf83874fdb5bc314b3e76c56760"
+hash = "b4edad0fed2b7d868969a4b0c126db41b3ac3bc41a90319d52666d50acd0eb30d1941315666990cb6e3f389dabc463a7e3252e148c876f0cd874307b528cd34d"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "moiHjUsv"
+version = "1K7XoPeL"
