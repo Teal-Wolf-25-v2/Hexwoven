@@ -173,6 +173,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "f8360b219129d2524d5624b1aebde7a460269bbed7c9f6c4b86a6eda302d1449"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "7ade4714ecfc1adcd35f7d7b69744a839f03e545b90b9dc1d70019447ca42129"
 metafile = true
@@ -190,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "7c01fb6fca963567ccb0cc5bd3780e99a712f44b96c4c65c993163e7c20e3277"
 metafile = true
 
 [[files]]
@@ -530,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "31e42aa7b60984481a2a8b5027b02a5f85b50da7a69812009a50b5301fa83191"
+metafile = true
+
+[[files]]
+file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
+hash = "e003c4f92515d7365575eacc8fbed967f182d133999de67799c960c01389bfc6"
 metafile = true
 
 [[files]]
