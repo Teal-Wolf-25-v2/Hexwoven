@@ -1,13 +1,13 @@
 name = "Hex Wright"
-filename = "hexwright-2.0.2.jar"
+filename = "hexwright-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DXkdjl8n/versions/QnQeLJBI/hexwright-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/DXkdjl8n/versions/qKsOvAop/hexwright-2.0.3.jar"
 hash-format = "sha512"
-hash = "5bb11026fc6cd2d5aa4b1cfcae4118b339ea1c99837da4efb181a0da7b9227e9db76f92a886a6cfc279208a281cea6e434e61ad1de391d765f71b8933a229152"
+hash = "155e708eca515fc50c6a97b6ee4c9ee60fe6046aaa530787122cfb56efbd8765f5e66b4bab6705340c6dd87fbdec955e96338ac67b888e8231bf868f72896eaa"
 
 [update]
 [update.modrinth]
 mod-id = "DXkdjl8n"
-version = "QnQeLJBI"
+version = "qKsOvAop"
