@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "b9d143806f644fc7e15810710db619ed882cb761b6f205ac3310b9ff8ae7c008"
+hash = "067e1e055f6e7b40ccdc7bac86ffcc984da8b078e1541d3eb7cfb03b2224188b"
 metafile = true
 
 [[files]]
