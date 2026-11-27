@@ -1,13 +1,13 @@
 name = "Hexic"
-filename = "hexic-2.2.0+73904c5.jar"
+filename = "hexic-2.2.0+91cff48.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/XWbBtcYl/hexic-2.2.0%2B73904c5.jar"
+url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/WpqPJfB7/hexic-2.2.0%2B91cff48.jar"
 hash-format = "sha1"
-hash = "518570d3040783aa4817dbffbb72883a601f565e"
+hash = "c584e72724d0a005e184c2a9a863c55384ed8ed2"
 
 [update]
 [update.modrinth]
 mod-id = "2wn8r7k5"
-version = "XWbBtcYl"
+version = "WpqPJfB7"
