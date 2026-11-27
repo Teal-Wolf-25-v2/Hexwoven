@@ -1,13 +1,13 @@
 name = "Create: Enchantment Industry"
-filename = "create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar"
+filename = "create-enchantment-industry-fabric-1.20.1-2.5.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/Or9rfT7c/create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar"
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/mtiLMpfe/create-enchantment-industry-fabric-1.20.1-2.5.4.jar"
 hash-format = "sha512"
-hash = "a1dd05201a7124445ba18a85ac72176de885c89a75227cf172b411fc821d7705de076d35c12bf8fbd48ca82aa77cff384f4f8158988d43a1de1495b22bdc660b"
+hash = "12b6ed76c43069fdff2676c72f8a6a0d1eaab659ecb544cb803f0778f7ed6f0e550f908414c7b65941f0cceda85199a587db80ccc69370b86963d2eae4edb3ed"
 
 [update]
 [update.modrinth]
 mod-id = "JWGBpFUP"
-version = "Or9rfT7c"
+version = "mtiLMpfe"

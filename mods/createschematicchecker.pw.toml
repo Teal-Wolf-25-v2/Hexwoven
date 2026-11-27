@@ -1,13 +1,13 @@
 name = "Create: SchematicChecker"
-filename = "CreateSchematicChecker-2.27.47-6.0-fabric-1.20.1.jar"
+filename = "CreateSchematicChecker-3.30.63-6.0-fabric-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ULzrAD1U/versions/IiZw7mqI/CreateSchematicChecker-2.27.47-6.0-fabric-1.20.1.jar"
-hash-format = "sha1"
-hash = "30008923bb36cfefd0b245c558eb5d6216104e0a"
+url = "https://cdn.modrinth.com/data/ULzrAD1U/versions/8UGYl7Vr/CreateSchematicChecker-3.30.63-6.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "7b7c5f09f9bd11683f58155eb7ad2d8a2be147365c886799a7f597824f2cab6af073db6fb3e2d0d941a0eb49f8097fe91f56568686f1a54b5f9a527e3a2a1855"
 
 [update]
 [update.modrinth]
 mod-id = "ULzrAD1U"
-version = "IiZw7mqI"
+version = "8UGYl7Vr"
