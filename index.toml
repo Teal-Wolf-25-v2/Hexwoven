@@ -109,6 +109,11 @@ hash = "9e94089231d50ff38c030369b6b9b8af0c8d9f0b495611ae3b29be18656d35bb"
 metafile = true
 
 [[files]]
+file = "mods/blaha-replushed.pw.toml"
+hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
+metafile = true
+
+[[files]]
 file = "mods/bulletin-board.pw.toml"
 hash = "b2bf37e8ccad73f3fd1088dcb79ad08cfdd542575374d810d664541624a85598"
 metafile = true
@@ -363,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
+
+[[files]]
+file = "mods/hexbackport.pw.toml"
+hash = "52d09479d540bde9f943a4b1dad7ee447ed13799c2792268ada66de16e5cf9ef"
 metafile = true
 
 [[files]]

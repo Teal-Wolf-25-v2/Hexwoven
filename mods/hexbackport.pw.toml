@@ -1,0 +1,13 @@
+name = "HexBackport"
+filename = "hexbackport-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WUgj5ND7/versions/yXS6GulT/hexbackport-1.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "f25f228463976f675adf4298aa7aee3430a75a0604e2b6bbf0881d744f986d58a121a64f1d38fe935a9625510f2fbfda92d31414f94edb70bc1d016c8bf6020f"
+
+[update]
+[update.modrinth]
+mod-id = "WUgj5ND7"
+version = "yXS6GulT"
