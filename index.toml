@@ -567,6 +567,11 @@ hash = "675d785982758d81373900f5a0b1e9779dd53f369ec3bf06464019a73e6059df"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "56cc7da9e06ef88011fd3f88e1aa0b1102863fd5ea71551be5dd269d2e0d7b0c"
+metafile = true
+
+[[files]]
 file = "mods/mighty_mail-fabric-1.20.1-1.1.4.jar"
 hash = "6db5f9b43247e384b7f176f2e87c47cbbe0bd7cf5a3297c5f3355daff8f331b7"
 
